@@ -1,0 +1,1045 @@
+
+
+
+java method parameters
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+java tutorial
+java home
+java intro
+java get started
+java syntax
+java comments
+java variables
+
+variables
+print variables
+declare multiple variables
+identifiers
+
+java data types
+
+data types
+numbers
+booleans
+characters
+non-primitive types
+
+
+java type casting
+java operators
+java strings
+
+strings
+special characters
+
+java math
+java booleans
+java if...else
+
+if...else
+short hand if...else
+
+java switch
+java while loop
+java for loop
+
+for loop
+for-each loop
+
+java break/continue
+java arrays
+
+arrays
+loop through an array
+multidimensional arrays
+
+
+
+java methods
+java methods
+java method parameters
+java method overloading
+java scope
+java recursion
+
+
+java classes
+java oop
+java classes/objects
+java class attributes
+java class methods
+java constructors
+java modifiers
+java encapsulation
+java packages / api
+java inheritance
+java polymorphism
+java inner classes
+java abstraction
+java interface
+java enums
+java user input
+java date
+java arraylist
+java linkedlist
+java hashmap
+java hashset
+java iterator
+java wrapper classes
+java exceptions
+java regex
+java threads
+java lambda
+
+
+java file handling
+java files
+java create/write files
+java read files
+java delete files
+
+
+java how to
+add two numbers
+
+
+java reference
+java keywords
+
+  abstract
+  boolean
+  break
+  byte
+  case
+  catch
+  char
+  class
+  continue
+  default
+  do
+  double
+  else
+  enum
+  extends
+  final
+  finally
+  float
+  for
+  if
+  implements
+  import
+  instanceof
+  int
+  interface
+  long
+  new
+  package
+  private
+  protected
+  public
+  return
+  short
+  static
+  super
+  switch
+  this
+  throw
+  throws
+  try
+  void
+  while
+
+java string methods
+java math methods
+
+
+java examples
+java examples
+java compiler
+java exercises
+java quiz
+java certificate
+
+
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+java method parameters
+
+? previous
+next ?
+
+
+
+parameters and arguments
+information can be passed to methods as parameter. parameters act as variables inside the method.
+parameters are specified after the method name, inside the parentheses.
+you can add as many parameters as you want, just separate them with a comma.
+
+the following example has a 
+method that takes a string called fname as parameter.
+when the method is called, we pass along a first name,
+which is used inside the method to print the full name:
+
+
+
+example
+public class main {
+  static void mymethod(string fname) {
+    system.out.println(fname + " refsnes");
+  }
+
+  public static void main(string[] args) {
+    mymethod("liam");
+    mymethod("jenny");
+    mymethod("anja");
+  }
+}
+// liam refsnes
+// jenny refsnes
+// anja refsnes
+
+
+try it yourself »
+
+
+
+when a parameter is passed to the method, it is called an argument. so, from the example above: fname is a parameter, while liam, jenny and anja are arguments.
+
+
+
+multiple parameters
+you can have as many parameters as you like:
+
+
+example
+public class main {
+  static void mymethod(string fname, int age) {
+    system.out.println(fname + " is " + age);
+  }
+
+  public static void main(string[] args) {
+    mymethod("liam", 5);
+    mymethod("jenny", 8);
+    mymethod("anja", 31);
+  }
+}
+
+// liam is 5
+// jenny is 8
+// anja is 31
+
+try it yourself »
+
+
+
+
+note that when you are working with multiple parameters, the method call must 
+have the same number of arguments as there are parameters, and the arguments must be passed in the same order.
+
+
+
+return values
+the void keyword, used in the examples above, indicates that the method should not return a value. if you 
+want the method to return a value, you can use a primitive data type (such as int, 
+char, etc.) instead of void, and use the return 
+keyword inside the method:
+
+
+example
+public class main {
+  static int mymethod(int x) {
+    return 5 + x;
+  }
+
+  public static void main(string[] args) {
+    system.out.println(mymethod(3));
+  }
+}
+// outputs 8 (5 + 3)
+
+
+try it yourself »
+
+
+this example returns the sum of a method's two parameters:
+
+
+example
+public class main {
+  static int mymethod(int x, int y) {
+    return x + y;
+  }
+
+  public static void main(string[] args) {
+    system.out.println(mymethod(5, 3));
+  }
+}
+// outputs 8 (5 + 3)
+
+
+try it yourself »
+
+
+you can also store the result in a variable (recommended, as it is easier to read and maintain):
+
+
+example
+public class main {
+  static int mymethod(int x, int y) {
+    return x + y;
+  }
+
+  public static void main(string[] args) {
+    int z = mymethod(5, 3);
+    system.out.println(z);
+  }
+}
+// outputs 8 (5 + 3)
+
+
+try it yourself »
+
+
+
+
+
+
+
+  
+  
+
+
+
+a method with if...else
+it is common to use if...else statements inside methods:
+
+
+example
+public class main {
+
+  // create a checkage() method with an integer variable called age
+  static void checkage(int age) {
+
+    // if age is less than 18, print "access denied"
+    if (age < 18) {
+      system.out.println("access denied - you are not old enough!");
+
+    // if age is greater than, or equal to, 18, print "access granted"
+    } else {
+      system.out.println("access granted - you are old enough!");
+    }
+
+  }
+
+  public static void main(string[] args) {
+    checkage(20); // call the checkage method and pass along an age of 20
+  }
+}
+
+// outputs "access granted - you are old enough!"
+
+
+try it yourself »
+
+
+
+
+
+
+test yourself with exercises
+
+exercise:
+add a fname parameter of type string to mymethod, and output "john doe":
+
+static void mymethod( ) {
+  system.out.println( + " doe");
+}
+
+public static void main(string[] args) {
+  mymethod("john");
+}
+
+
+
+submit answer »
+start the exercise
+
+
+
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1266 @@
+
+
+
+sql unique constraint
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+sql tutorial
+sql home
+sql intro
+sql syntax
+sql select
+sql select distinct
+sql where
+sql and, or, not
+sql order by
+sql insert into
+sql null values
+sql update
+sql delete
+sql select top
+sql min and max
+sql count, avg, sum
+sql like
+sql wildcards
+sql in
+sql between
+sql aliases
+sql joins
+sql inner join
+sql left join
+sql right join
+sql full join
+sql self join
+sql union
+sql group by
+sql having
+sql exists
+sql any, all
+sql select into
+sql insert into select
+sql case
+sql null functions
+sql stored procedures
+sql comments
+sql operators
+
+sql database
+sql create db
+sql drop db
+sql backup db
+sql create table
+sql drop table
+sql alter table
+sql constraints
+sql not null
+sql unique
+sql primary key
+sql foreign key
+sql check
+sql default
+sql index
+sql auto increment
+sql dates
+sql views
+sql injection
+sql hosting
+sql data types
+
+sql references
+
+sql keywords
+
+  add
+  add constraint
+  all
+  alter
+  alter column
+  alter table
+  and
+  any
+  as
+  asc
+  backup database
+  between
+  case
+  check
+  column
+  constraint
+  create
+  create database
+  create index
+  create or replace view
+  create table
+  create procedure
+  create unique index
+  create view
+  database
+  default
+  delete
+  desc
+  distinct
+  drop
+  drop column
+  drop constraint
+  drop database
+  drop default
+  drop index
+  drop table
+  drop view
+  exec
+  exists
+  foreign key
+  from
+  full outer join
+  group by
+  having
+  in
+  index
+  inner join
+  insert into
+  insert into select
+  is null
+  is not null
+  join
+  left join
+  like
+  limit
+  not
+  not null
+  or
+  order by
+  outer join
+  primary key
+  procedure
+  right join
+  rownum
+  select
+  select distinct
+  select into
+  select top
+  set
+  table
+  top
+  truncate table
+  union
+  union all
+  unique
+  update
+  values
+  view
+  where
+
+
+mysql functions
+
+  string functions:
+  ascii
+  char_length
+  character_length
+  concat
+  concat_ws
+  field
+  find_in_set
+  format
+  insert
+  instr
+  lcase
+  left
+  length
+  locate
+  lower
+  lpad
+  ltrim
+  mid
+  position
+  repeat
+  replace
+  reverse
+  right
+  rpad
+  rtrim
+  space
+  strcmp
+  substr
+  substring
+  substring_index
+  trim
+  ucase
+  upper
+
+  numeric functions:
+  abs
+  acos
+  asin
+  atan
+  atan2
+  avg
+  ceil
+  ceiling
+  cos
+  cot
+  count
+  degrees
+  div
+  exp
+  floor
+  greatest
+  least
+  ln
+  log
+  log10
+  log2
+  max
+  min
+  mod
+  pi
+  pow
+  power
+  radians
+  rand
+  round
+  sign
+  sin
+  sqrt
+  sum
+  tan
+  truncate
+
+  date functions:
+  adddate
+  addtime
+  curdate
+  current_date
+  current_time
+  current_timestamp
+  curtime
+  date
+  datediff
+  date_add
+  date_format
+  date_sub
+  day
+  dayname
+  dayofmonth
+  dayofweek
+  dayofyear
+  extract
+  from_days
+  hour
+  last_day
+  localtime
+  localtimestamp
+  makedate
+  maketime
+  microsecond
+  minute
+  month
+  monthname
+  now
+  period_add
+  period_diff
+  quarter
+  second
+  sec_to_time
+  str_to_date
+  subdate
+  subtime
+  sysdate
+  time
+  time_format
+  time_to_sec
+  timediff
+  timestamp
+  to_days
+  week
+  weekday
+  weekofyear
+  year
+  yearweek
+
+  advanced functions:
+  bin
+  binary
+  case
+  cast
+  coalesce
+  connection_id
+  conv
+  convert
+  current_user
+  database
+  if
+  ifnull
+  isnull
+  last_insert_id
+  nullif
+  session_user
+  system_user
+  user
+  version
+
+
+sql server functions
+
+  string functions:
+  ascii
+  char
+  charindex
+  concat
+  concat with +
+  concat_ws
+  datalength
+  difference
+  format
+  left
+  len
+  lower
+  ltrim
+  nchar
+  patindex
+  quotename
+  replace
+  replicate
+  reverse
+  right
+  rtrim
+  soundex
+  space
+  str
+  stuff
+  substring
+  translate
+  trim
+  unicode
+  upper
+
+  numeric functions:
+  abs
+  acos
+  asin
+  atan
+  atn2
+  avg
+  ceiling
+  count
+  cos
+  cot
+  degrees
+  exp
+  floor
+  log
+  log10
+  max
+  min
+  pi
+  power
+  radians
+  rand
+  round
+  sign
+  sin
+  sqrt
+  square
+  sum
+  tan
+
+  date functions:
+  current_timestamp
+  dateadd
+  datediff
+  datefromparts
+  datename
+  datepart
+  day
+  getdate
+  getutcdate
+  isdate
+  month
+  sysdatetime
+  year
+
+  advanced functions
+  cast
+  coalesce
+  convert
+  current_user
+  iif  
+  isnull
+  isnumeric
+  nullif
+  session_user
+  sessionproperty
+  system_user
+  user_name
+
+
+ms access functions
+
+  string functions:
+  asc
+  chr
+  concat with &
+  curdir
+  format
+  instr
+  instrrev
+  lcase
+  left
+  len
+  ltrim
+  mid
+  replace
+  right
+  rtrim
+  space
+  split
+  str
+  strcomp
+  strconv
+  strreverse
+  trim
+  ucase
+
+  numeric functions:
+  abs
+  atn
+  avg
+  cos
+  count
+  exp
+  fix
+  format
+  int
+  max
+  min
+  randomize
+  rnd
+  round
+  sgn
+  sqr
+  sum
+  val
+
+  date functions:
+  date
+  dateadd
+  datediff
+  datepart
+  dateserial
+  datevalue
+  day
+  format
+  hour
+  minute
+  month
+  monthname
+  now
+  second
+  time
+  timeserial
+  timevalue
+  weekday
+  weekdayname
+  year
+
+  other functions:
+  currentuser
+  environ
+  isdate
+  isnull
+  isnumeric
+
+sql quick ref
+
+sql examples
+sql examples
+sql quiz
+sql exercises
+sql certificate
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+sql unique constraint
+
+? previous
+next ?
+
+
+sql unique constraint
+the unique constraint ensures that all values in a column are different.
+both the unique and 
+primary key constraints provide a guarantee for uniqueness for a column or set of columns.
+a primary key constraint automatically has a
+unique constraint.
+however, you can have many unique constraints per table, but only one 
+primary key constraint per table.
+
+
+sql unique constraint on create table
+the following sql creates a unique constraint on the "id" column when the "persons" table is created:
+
+sql server / oracle / ms access:
+
+
+create table persons
+(
+    id int not null unique,
+   
+lastname varchar(255) not null,
+   
+firstname varchar(255),
+   
+age int
+);
+
+
+mysql:
+
+
+create table persons
+(
+    id int not null,
+   
+lastname varchar(255) not null,
+   
+firstname varchar(255),
+   
+age int,
+   
+unique (id)
+);
+
+to name a unique constraint, and to define a 
+unique constraint on multiple columns, use the following sql syntax:
+
+mysql / sql server / oracle / ms access:
+
+
+
+create table persons
+(
+    id int not null,
+   
+lastname varchar(255) not null,
+   
+firstname varchar(255),
+   
+age int,
+   
+constraint uc_person unique (id,lastname)
+);
+
+
+
+
+
+  
+  
+
+
+sql unique constraint on alter table
+to create a unique constraint on the "id" column when the table is already created, use the following sql:
+
+mysql / sql server / oracle / ms access:
+
+
+alter table persons
+add unique (id);
+
+to name a unique constraint, and to define a 
+unique constraint on multiple columns, use the following sql syntax:
+
+mysql / sql server / oracle / ms access:
+
+
+alter table persons
+add constraint uc_person unique (id,lastname);
+
+
+drop a unique constraint
+to drop a unique constraint, use the following sql:
+
+mysql:
+
+
+alter table persons
+drop index uc_person;
+
+
+sql server / oracle / ms access:
+
+
+alter table persons
+drop constraint uc_person;
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

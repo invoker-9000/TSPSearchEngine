@@ -1,0 +1,2128 @@
+
+
+
+sql and, or, not operators
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+sql tutorial
+sql home
+sql intro
+sql syntax
+sql select
+sql select distinct
+sql where
+sql and, or, not
+sql order by
+sql insert into
+sql null values
+sql update
+sql delete
+sql select top
+sql min and max
+sql count, avg, sum
+sql like
+sql wildcards
+sql in
+sql between
+sql aliases
+sql joins
+sql inner join
+sql left join
+sql right join
+sql full join
+sql self join
+sql union
+sql group by
+sql having
+sql exists
+sql any, all
+sql select into
+sql insert into select
+sql case
+sql null functions
+sql stored procedures
+sql comments
+sql operators
+
+sql database
+sql create db
+sql drop db
+sql backup db
+sql create table
+sql drop table
+sql alter table
+sql constraints
+sql not null
+sql unique
+sql primary key
+sql foreign key
+sql check
+sql default
+sql index
+sql auto increment
+sql dates
+sql views
+sql injection
+sql hosting
+sql data types
+
+sql references
+
+sql keywords
+
+  add
+  add constraint
+  all
+  alter
+  alter column
+  alter table
+  and
+  any
+  as
+  asc
+  backup database
+  between
+  case
+  check
+  column
+  constraint
+  create
+  create database
+  create index
+  create or replace view
+  create table
+  create procedure
+  create unique index
+  create view
+  database
+  default
+  delete
+  desc
+  distinct
+  drop
+  drop column
+  drop constraint
+  drop database
+  drop default
+  drop index
+  drop table
+  drop view
+  exec
+  exists
+  foreign key
+  from
+  full outer join
+  group by
+  having
+  in
+  index
+  inner join
+  insert into
+  insert into select
+  is null
+  is not null
+  join
+  left join
+  like
+  limit
+  not
+  not null
+  or
+  order by
+  outer join
+  primary key
+  procedure
+  right join
+  rownum
+  select
+  select distinct
+  select into
+  select top
+  set
+  table
+  top
+  truncate table
+  union
+  union all
+  unique
+  update
+  values
+  view
+  where
+
+
+mysql functions
+
+  string functions:
+  ascii
+  char_length
+  character_length
+  concat
+  concat_ws
+  field
+  find_in_set
+  format
+  insert
+  instr
+  lcase
+  left
+  length
+  locate
+  lower
+  lpad
+  ltrim
+  mid
+  position
+  repeat
+  replace
+  reverse
+  right
+  rpad
+  rtrim
+  space
+  strcmp
+  substr
+  substring
+  substring_index
+  trim
+  ucase
+  upper
+
+  numeric functions:
+  abs
+  acos
+  asin
+  atan
+  atan2
+  avg
+  ceil
+  ceiling
+  cos
+  cot
+  count
+  degrees
+  div
+  exp
+  floor
+  greatest
+  least
+  ln
+  log
+  log10
+  log2
+  max
+  min
+  mod
+  pi
+  pow
+  power
+  radians
+  rand
+  round
+  sign
+  sin
+  sqrt
+  sum
+  tan
+  truncate
+
+  date functions:
+  adddate
+  addtime
+  curdate
+  current_date
+  current_time
+  current_timestamp
+  curtime
+  date
+  datediff
+  date_add
+  date_format
+  date_sub
+  day
+  dayname
+  dayofmonth
+  dayofweek
+  dayofyear
+  extract
+  from_days
+  hour
+  last_day
+  localtime
+  localtimestamp
+  makedate
+  maketime
+  microsecond
+  minute
+  month
+  monthname
+  now
+  period_add
+  period_diff
+  quarter
+  second
+  sec_to_time
+  str_to_date
+  subdate
+  subtime
+  sysdate
+  time
+  time_format
+  time_to_sec
+  timediff
+  timestamp
+  to_days
+  week
+  weekday
+  weekofyear
+  year
+  yearweek
+
+  advanced functions:
+  bin
+  binary
+  case
+  cast
+  coalesce
+  connection_id
+  conv
+  convert
+  current_user
+  database
+  if
+  ifnull
+  isnull
+  last_insert_id
+  nullif
+  session_user
+  system_user
+  user
+  version
+
+
+sql server functions
+
+  string functions:
+  ascii
+  char
+  charindex
+  concat
+  concat with +
+  concat_ws
+  datalength
+  difference
+  format
+  left
+  len
+  lower
+  ltrim
+  nchar
+  patindex
+  quotename
+  replace
+  replicate
+  reverse
+  right
+  rtrim
+  soundex
+  space
+  str
+  stuff
+  substring
+  translate
+  trim
+  unicode
+  upper
+
+  numeric functions:
+  abs
+  acos
+  asin
+  atan
+  atn2
+  avg
+  ceiling
+  count
+  cos
+  cot
+  degrees
+  exp
+  floor
+  log
+  log10
+  max
+  min
+  pi
+  power
+  radians
+  rand
+  round
+  sign
+  sin
+  sqrt
+  square
+  sum
+  tan
+
+  date functions:
+  current_timestamp
+  dateadd
+  datediff
+  datefromparts
+  datename
+  datepart
+  day
+  getdate
+  getutcdate
+  isdate
+  month
+  sysdatetime
+  year
+
+  advanced functions
+  cast
+  coalesce
+  convert
+  current_user
+  iif  
+  isnull
+  isnumeric
+  nullif
+  session_user
+  sessionproperty
+  system_user
+  user_name
+
+
+ms access functions
+
+  string functions:
+  asc
+  chr
+  concat with &
+  curdir
+  format
+  instr
+  instrrev
+  lcase
+  left
+  len
+  ltrim
+  mid
+  replace
+  right
+  rtrim
+  space
+  split
+  str
+  strcomp
+  strconv
+  strreverse
+  trim
+  ucase
+
+  numeric functions:
+  abs
+  atn
+  avg
+  cos
+  count
+  exp
+  fix
+  format
+  int
+  max
+  min
+  randomize
+  rnd
+  round
+  sgn
+  sqr
+  sum
+  val
+
+  date functions:
+  date
+  dateadd
+  datediff
+  datepart
+  dateserial
+  datevalue
+  day
+  format
+  hour
+  minute
+  month
+  monthname
+  now
+  second
+  time
+  timeserial
+  timevalue
+  weekday
+  weekdayname
+  year
+
+  other functions:
+  currentuser
+  environ
+  isdate
+  isnull
+  isnumeric
+
+sql quick ref
+
+sql examples
+sql examples
+sql quiz
+sql exercises
+sql certificate
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+sql and, or and not operators
+
+? previous
+next ?
+
+
+
+the sql and, or and not operators
+the where clause can be combined with 
+and, or, and 
+not operators.
+the and and or operators are used to filter records based on more than one 
+condition:
+
+  the and operator displays a record if all the conditions separated by 
+  and 
+  are true.
+  the or operator displays a record if any of the conditions separated by 
+  or is true.
+
+the not operator displays a record if the condition(s) is not true.
+
+and syntax
+
+
+select column1, column2, ...
+from table_name
+where condition1 and condition2 and condition3 ...;
+
+or syntax
+
+
+select column1, column2, ...
+from table_name
+where condition1 or condition2 or condition3 ...;
+
+not syntax
+
+
+select column1, column2, ...
+from table_name
+where not condition;
+
+
+demo database
+the table below shows the complete "customers" table from the northwind sample database:
+
+
+  
+    customeridcustomernamecontactnameaddresscitypostalcodecountry
+  
+  
+    1alfreds futterkistemaria andersobere str. 57berlin12209germany
+  
+  
+    2ana trujillo emparedados y heladosana trujilloavda. de la constituciã³n 2222mã©xico d.f.05021mexico
+  
+  
+    3antonio moreno taquerã­aantonio morenomataderos 2312mã©xico d.f.05023mexico
+  
+  
+    4around the hornthomas hardy120 hanover sq.londonwa1 1dpuk
+  
+  
+    5berglunds snabbkã¶pchristina berglundberguvsvã¤gen 8luleã¥s-958 22sweden
+  
+  
+    6blauer see delikatessenhanna moosforsterstr. 57mannheim68306germany
+    
+  
+    7blondel pã¨re et filsfrã©dã©rique citeaux24, place klã©berstrasbourg67000france
+  
+  
+    8bã³lido comidas preparadasmartã­n sommerc/ araquil, 67madrid28023spain
+  
+  
+    9bon app'laurence lebihans12, rue des bouchersmarseille13008france
+  
+  
+    10bottom-dollar marketseelizabeth lincoln23 tsawassen blvd.tsawassent2f 8m4canada
+  
+  
+    11b's beveragesvictoria ashworthfauntleroy circuslondonec2 5ntuk
+  
+  
+    12cactus comidas para llevarpatricio simpsoncerrito 333buenos aires1010argentina
+  
+  
+    13centro comercial moctezumafrancisco changsierras de granada 9993mã©xico d.f.05022mexico
+  
+	
+    14chop-suey chineseyang wanghauptstr. 29bern3012switzerland
+	
+	
+	  15comã©rcio mineiropedro afonsoav. dos lusã­adas, 23sã£o paulo05432-043brazil
+	
+	
+	  16consolidated holdingselizabeth brownberkeley gardens 12 brewerylondonwx1 6ltuk
+  
+  
+    17drachenblut delikatessendsven ottliebwalserweg 21aachen52066germany
+  
+  
+    18du monde entierjanine labrune67, rue des cinquante otagesnantes44000france
+  
+	
+	  19eastern connectionann devon35 king georgelondonwx3 6fwuk
+  
+  
+   20
+   ernst handel
+   roland mendel
+   kirchgasse 6
+   graz
+   8010
+   austria
+
+
+   21
+   familia arquibaldo
+   aria cruz
+   rua orã³s, 92
+   sã£o paulo
+   05442-030
+   brazil
+
+
+   22
+   fissa fabrica inter. salchichas s.a.
+   diego roel
+   c/ moralzarzal, 86
+   madrid
+   28034
+   spain
+
+
+   23
+   folies gourmandes
+   martine rancã©
+   184, chaussã©e de tournai
+   lille
+   59000
+   france
+
+
+   24
+   folk och fã¤ hb
+   maria larsson
+   ã…kergatan 24
+   brã¤cke
+   s-844 67
+   sweden
+
+
+   25
+   frankenversand
+   peter franken
+   berliner platz 43
+   mã¼nchen
+   80805
+   germany
+
+
+   26
+   france restauration
+   carine schmitt
+   54, rue royale
+   nantes
+   44000
+   france
+
+
+   27
+   franchi s.p.a.
+   paolo accorti
+   via monte bianco 34
+   torino
+   10100
+   italy
+
+
+   28
+  furia bacalhau e frutos do mar
+  lino rodriguez
+  jardim das rosas n. 32
+  lisboa
+  1675
+  portugal
+
+
+  29
+  galerã­a del gastrã³nomo
+  eduardo saavedra
+  rambla de cataluã±a, 23
+  barcelona
+  08022
+  spain
+
+
+  30
+  godos cocina tã­pica
+  josã© pedro freyre
+  c/ romero, 33
+  sevilla
+  41101
+  spain
+
+
+  31
+  gourmet lanchonetes
+  andrã© fonseca
+  av. brasil, 442
+  campinas
+  04876-786
+  brazil
+
+
+  32
+  great lakes food market
+  howard snyder
+  2732 baker blvd.
+  eugene
+  97403
+  usa
+
+
+  33
+  grosella-restaurante
+  manuel pereira
+  5âª ave. los palos grandes
+  caracas
+  1081
+  venezuela
+
+
+  34
+  hanari carnes
+  mario pontes
+  rua do paã§o, 67
+  rio de janeiro
+  05454-876
+  brazil
+
+
+  35
+  hilariã“n-abastos
+  carlos hernã¡ndez
+  carrera 22 con ave. carlos soublette #8-35
+  san cristã³bal
+  5022
+  venezuela
+
+
+  36
+  hungry coyote import store
+  yoshi latimer
+  city center plaza 516 main st.
+  elgin
+  97827
+  usa
+
+
+
+
+  37
+  hungry owl all-night grocers
+  patricia mckenna
+  8 johnstown road
+  cork
+  
+  ireland
+
+
+
+
+  38
+  island trading
+  helen bennett
+  garden house crowther way
+  cowes
+  po31 7pj
+  uk
+
+
+
+
+  39
+  kã¶niglich essen
+  philip cramer
+  maubelstr. 90
+  brandenburg
+  14776
+  germany
+
+
+
+
+  40
+  la corne d'abondance
+  daniel tonini
+  67, avenue de l'europe
+  versailles
+  78000
+  france
+
+
+
+
+  41
+  la maison d'asie
+  annette roulet
+  1 rue alsace-lorraine
+  toulouse
+  31000
+  france
+
+
+
+
+  42
+  laughing bacchus wine cellars
+  yoshi tannamuri
+  1900 oak st.
+  vancouver
+  v3f 2k1
+  canada
+
+
+
+
+  43
+  lazy k kountry store
+  john steel
+  12 orchestra terrace
+  walla walla
+  99362
+  usa
+
+
+
+
+  44
+  lehmanns marktstand
+  renate messner
+  magazinweg 7
+  frankfurt a.m. 
+  60528
+  germany
+
+
+
+
+  45
+  let's stop n shop
+  jaime yorres
+  87 polk st. suite 5
+  san francisco
+  94117
+  usa
+
+
+
+
+  46
+  lila-supermercado
+  carlos gonzã¡lez
+  carrera 52 con ave. bolã­var #65-98 llano largo
+  barquisimeto
+  3508
+  venezuela
+
+
+
+
+  47
+  lino-delicateses
+  felipe izquierdo
+  ave. 5 de mayo porlamar
+  i. de margarita
+  4980
+  venezuela
+
+
+
+
+  48
+  lonesome pine restaurant
+  fran wilson
+  89 chiaroscuro rd.
+  portland
+  97219
+  usa
+
+
+
+
+  49
+  magazzini alimentari riuniti
+  giovanni rovelli
+  via ludovico il moro 22
+  bergamo
+  24100
+  italy
+
+
+
+
+  50
+  maison dewey
+  catherine dewey
+  rue joseph-bens 532
+  bruxelles
+  b-1180
+  belgium
+
+
+
+
+  51
+  mã¨re paillarde
+  jean fresniã¨re
+  43 rue st. laurent
+  montrã©al
+  h1j 1c3
+  canada
+
+
+
+
+  52
+  morgenstern gesundkost
+  alexander feuer
+  heerstr. 22
+  leipzig
+  04179
+  germany
+
+
+
+
+  53
+  north/south
+  simon crowther
+  south house 300 queensbridge
+  london
+  sw7 1rz
+  uk
+
+
+
+
+  54
+  ocã©ano atlã¡ntico ltda.
+  yvonne moncada
+  ing. gustavo moncada 8585 piso 20-a
+  buenos aires
+  1010
+  argentina
+
+
+
+
+  55
+  old world delicatessen
+  rene phillips
+  2743 bering st.
+  anchorage
+  99508
+  usa
+
+
+
+
+  56
+  ottilies kã¤seladen
+  henriette pfalzheim
+  mehrheimerstr. 369
+  kã¶ln
+  50739
+  germany
+
+
+
+
+  57
+  paris spã©cialitã©s
+  marie bertrand
+  265, boulevard charonne
+  paris
+  75012
+  france
+
+
+
+
+  58
+  pericles comidas clã¡sicas
+  guillermo fernã¡ndez
+  calle dr. jorge cash 321
+  mã©xico d.f.
+  05033
+  mexico
+
+
+
+
+  59
+  piccolo und mehr
+  georg pipps
+  geislweg 14
+  salzburg
+  5020
+  austria
+
+
+
+
+  60
+  princesa isabel vinhoss
+  isabel de castro
+  estrada da saãºde n. 58
+  lisboa
+  1756
+  portugal
+
+
+
+
+  61
+  que delã­cia
+  bernardo batista
+  rua da panificadora, 12
+  rio de janeiro
+  02389-673
+  brazil
+
+
+
+
+  62
+  queen cozinha
+  lãºcia carvalho
+  alameda dos canã rios, 891
+  sã£o paulo
+  05487-020
+  brazil
+
+
+
+
+  63
+  quick-stop
+  horst kloss
+  taucherstraãÿe 10
+  cunewalde
+  01307
+  germany
+
+
+
+
+  64
+  rancho grande
+  sergio gutiã©rrez
+  av. del libertador 900
+  buenos aires
+  1010
+  argentina
+
+
+
+
+  65
+  rattlesnake canyon grocery
+  paula wilson
+  2817 milton dr.
+  albuquerque
+  87110
+  usa
+
+
+
+
+  66
+  reggiani caseifici
+  maurizio moroni
+  strada provinciale 124
+  reggio emilia
+  42100
+  italy
+
+
+
+
+  67
+  ricardo adocicados
+  janete limeira
+  av. copacabana, 267
+  rio de janeiro
+  02389-890
+  brazil
+
+
+
+
+  68
+  richter supermarkt
+  michael holz
+  grenzacherweg 237
+  genã¨ve
+  1203
+  switzerland
+
+
+
+
+  69
+  romero y tomillo
+  alejandra camino
+  gran vã­a, 1
+  madrid
+  28001
+  spain
+
+
+
+
+  70
+  santã© gourmet
+  jonas bergulfsen
+  erling skakkes gate 78
+  stavern
+  4110
+  norway
+
+
+
+
+  71
+  save-a-lot markets
+  jose pavarotti
+  187 suffolk ln.
+  boise
+  83720
+  usa
+
+
+
+
+  72
+  seven seas imports
+  hari kumar
+  90 wadhurst rd.
+  london
+  ox15 4nb
+  uk
+
+
+
+
+  73
+  simons bistro
+  jytte petersen
+  vinbã¦ltet 34
+  kã¸benhavn
+  1734
+  denmark
+
+
+
+
+  74
+  spã©cialitã©s du monde
+  dominique perrier
+  25, rue lauriston
+  paris
+  75016
+  france
+
+
+
+
+  75
+  split rail beer & ale
+  art braunschweiger
+  p.o. box 555
+  lander
+  82520
+  usa
+
+
+
+
+  76
+  suprãªmes dã©lices
+  pascale cartrain
+  boulevard tirou, 255
+  charleroi
+  b-6000
+  belgium
+
+
+
+
+  77
+  the big cheese
+  liz nixon
+  89 jefferson way suite 2
+  portland
+  97201
+  usa
+
+
+
+
+  78
+  the cracker box
+  liu wong
+  55 grizzly peak rd.
+  butte
+  59801
+  usa
+
+
+
+
+  79
+  toms spezialitã¤ten
+  karin josephs
+  luisenstr. 48
+  mã¼nster
+  44087
+  germany
+
+
+
+
+  80
+  tortuga restaurante
+  miguel angel paolino
+  avda. azteca 123
+  mã©xico d.f.
+  05033
+  mexico
+
+
+
+
+  81
+  tradiã§ã£o hipermercados
+  anabela domingues
+  av. inãªs de castro, 414
+  sã£o paulo
+  05634-030
+  brazil
+
+
+
+
+  82
+  trail's head gourmet provisioners
+  helvetius nagy
+  722 davinci blvd.
+  kirkland
+  98034
+  usa
+
+
+
+
+  83
+  vaffeljernet
+  palle ibsen
+  smagslã¸get 45
+  ã…rhus
+  8200
+  denmark
+
+
+
+
+  84
+  victuailles en stock
+  mary saveley
+  2, rue du commerce
+  lyon
+  69004
+  france
+
+
+
+
+  85
+  vins et alcools chevalier
+  paul henriot
+  59 rue de l'abbaye
+  reims
+  51100
+  france
+
+
+
+
+  86
+  die wandernde kuh
+  rita mã¼ller
+  adenauerallee 900
+  stuttgart
+  70563
+  germany
+
+
+
+
+  87
+  wartian herkku
+  pirkko koskitalo
+  torikatu 38
+  oulu
+  90110
+  finland
+
+
+
+
+  88
+  wellington importadora
+  paula parente
+  rua do mercado, 12
+  resende
+  08737-363
+  brazil
+
+
+
+
+  89
+  white clover markets
+  karl jablonski
+  305 - 14th ave. s. suite 3b
+  seattle
+  98128
+  usa
+
+
+
+
+  90
+  wilman kala
+  matti karttunen
+  keskuskatu 45
+  helsinki
+  21240
+  finland
+
+
+
+
+  91
+  wolski
+  zbyszek
+  ul. filtrowa 68
+  walla
+  01-012
+  poland
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+and example
+the following sql statement selects all fields from "customers" where country is "germany" and city is "berlin":
+
+example
+
+ select * from customers
+ where country='germany'
+ and city='berlin';
+
+try it yourself »
+
+
+
+or example
+the following sql statement selects all fields from "customers" where city is "berlin" or "mã¼nchen":
+
+example
+
+ select * from customers
+ where city='berlin'
+ or city='mã¼nchen';
+
+try it yourself »
+
+the following sql statement selects all fields from "customers" where country is "germany" or "spain":
+
+example
+
+ select * from customers
+ where country='germany'
+ or country='spain';
+
+try it yourself »
+
+
+
+not example
+the following sql statement selects all fields from "customers" where country is not "germany":
+
+
+example
+
+ select * from customers
+ where 
+  not country='germany';
+
+try it yourself »
+
+
+combining and, or and not
+you can also combine the and, 
+or and not operators.
+
+the following sql statement selects all fields from "customers" where country is "germany" and city must be "berlin" 
+or "mã¼nchen" (use parenthesis to form complex expressions):
+
+example
+
+ select * from customers
+ where country='germany'
+ and (city='berlin' or city='mã¼nchen');
+try it yourself »
+
+
+the following sql statement selects all fields from "customers" where country is 
+not "germany" and not "usa":
+
+example
+
+ select * from customers
+ where not country='germany'
+ and not country='usa';
+try it yourself »
+
+
+
+
+test yourself with exercises
+
+exercise:
+select all records where the city column has the value 'berlin' and the postalcode column has the value 12209.
+
+ * from customers
+ city = 'berlin'
+  = 12209;
+
+
+
+submit answer »
+start the exercise
+
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

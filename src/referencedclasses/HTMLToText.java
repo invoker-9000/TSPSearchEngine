@@ -20,11 +20,12 @@ public class HTMLToText {
 		
 		String html="";
 		String fileName = file.getName();
-		String destPath = "F:\\eclipse-workspace\\TSPSearchEngine\\src\\Udemy\\Text" + "\\" + fileName.substring(0, fileName.length() - 5) + ".txt";
+		String destPath = "F:\\eclipse-workspace\\TSPSearchEngine\\src\\W3_Webpages\\Text" + "\\" + fileName.substring(0, fileName.length() - 5) + ".txt";
 
 		 Scanner scnr = new Scanner(file);
 		 while(scnr.hasNextLine()){
-			   String line = scnr.nextLine();
+			   String line = scnr.nextLine().toLowerCase();
+			   
 			   html+= line + "\n";
 		 }
 		 

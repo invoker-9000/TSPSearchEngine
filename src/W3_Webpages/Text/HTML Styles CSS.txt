@@ -1,0 +1,1103 @@
+
+
+
+html styles css
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+html tutorial
+html home
+html introduction
+html editors
+html basic
+html elements
+html attributes
+html headings
+html paragraphs
+html styles
+html formatting
+html quotations
+html comments
+html colors
+
+  colors
+  rgb
+  hex
+  hsl
+
+html css
+html links
+
+  links
+  link colors
+  link bookmarks
+
+html images
+
+  images
+  image map
+  background images
+  the picture element
+
+html favicon
+html tables
+
+  html tables
+  table borders
+  table sizes
+  table headers
+  padding & spacing
+  colspan & rowspan
+  table styling
+  table colgroup
+
+
+
+
+html lists
+
+lists
+unordered lists
+ordered lists
+other lists
+
+html block & inline
+html classes
+html id
+html iframes
+html javascript
+html file paths
+html head
+html layout
+html responsive
+html computercode
+html semantics
+html style guide
+html entities
+html symbols
+html emojis
+html charset
+html url encode
+html vs. xhtml
+
+html forms
+html forms
+html form attributes
+html form elements
+html input types
+html input attributes
+html input form attributes
+
+html graphics
+html canvas
+html svg
+
+html media
+html media
+html video
+html audio
+html plug-ins
+html youtube
+
+html apis
+html geolocation
+html drag/drop
+html web storage
+html web workers
+html sse
+
+html examples
+html examples
+html quiz
+html exercises
+html certificate
+html summary
+html accessibility
+
+html references
+html tag list
+html attributes
+html global attributes
+html browser support
+html events
+html colors
+html canvas
+html audio/video
+html doctypes
+html character sets
+html url encode
+html lang codes
+http messages
+http methods
+px to em converter
+keyboard shortcuts
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+html styles - css
+
+? previous
+next ?
+
+
+css stands for cascading style sheets.
+css saves a lot of work. it can control the layout of multiple 
+web pages all at once.
+
+
+
+  
+  
+  
+ css = styles and colors
+ manipulate text
+ colors,
+  boxes
+ 
+
+
+
+
+what is css?
+cascading style sheets (css) is used to format the layout of a webpage.
+with css, you can control the color, font, the size of text, the spacing 
+between elements, how elements are positioned and laid out, what background 
+images or background colors are to be used, different displays for different devices 
+and screen sizes, and much more!
+
+
+tip: the word cascading means that a style 
+applied to a parent element will also apply to all children elements within the 
+parent. so, if you set the color of the body text to "blue", all headings, 
+paragraphs, and other text elements within the body will also get the same color (unless you specify 
+something else)!
+
+
+
+using css
+css can be added to html documents in 3 ways:
+
+  inline - by using the style attribute inside html elements
+  internal - by using a <style> element in the <head> section
+  external - by using a <link> 
+  element to link to an external css file
+
+the most common way to add css, is to keep the styles in external css 
+files. however, in this tutorial we will use inline and internal styles, because this is easier to 
+demonstrate, and easier for you to try it yourself.
+
+
+inline css
+an inline css is used to apply a unique style to a single html element.
+an inline css uses the style attribute of an html element.
+the following example sets the text color of the <h1> element to blue, 
+and the text color of the <p> element to red:
+
+example
+
+ <h1 style="color:blue;">a blue heading</h1><p 
+  style="color:red;">a red paragraph.</p>
+try it yourself »
+
+
+
+
+
+
+  
+  
+
+
+internal css
+an internal css is used to define a style for a single html page.
+an internal css is defined in the <head> section of an html page, 
+within a <style> element.
+the following example sets the text color of all the <h1> elements 
+(on that page) to blue, and the text color of all the <p> elements to 
+red. in addition, the page will be displayed with a "powderblue" background 
+color: 
+
+example
+
+<!doctype html><html><head><style>
+ body {background-color: powderblue;}h1   {color: blue;}p    {color: red;}
+</style></head><body><h1>this is a 
+ heading</h1><p>this is a paragraph.</p></body></html>
+try it yourself »
+
+
+
+external css
+an external style sheet is used to define the style for many html pages.
+to use an external style sheet, add a link to it in the <head> section of each html page:
+
+example
+
+<!doctype html><html><head>
+  <link rel="stylesheet" href="styles.css">
+</head><body><h1>this is a heading</h1><p>this is a paragraph.</p></body></html>
+try it yourself »
+
+the external style sheet can be written in any text editor. the file must not contain any 
+html code, and must be saved with a .css extension.
+here is what the "styles.css" file looks like:
+
+"styles.css":
+
+ body {  background-color: powderblue;}h1 {  color: blue;}p {  color: red;}
+
+
+tip: with an external style sheet, you can change the look of an entire web site, by changing one file!
+
+
+
+css colors, fonts and sizes
+here, we will demonstrate some commonly used css properties. you will learn 
+more about them later.
+the css color property defines the text color to be used.
+the css font-family property defines the font to be used.
+the css font-size property defines the text size to be used.
+
+example
+  use of css color, font-family and font-size properties:
+
+<!doctype html>
+ <html><head><style>h1 {  color: blue;  font-family: verdana;  font-size: 300%;}p {
+    color: red;  
+ font-family: courier;  font-size: 160%;}</style></head><body>
+ <h1>this is a heading</h1><p>this is a paragraph.</p></body></html>
+try it yourself »
+
+
+
+css border
+the css border property defines a border 
+around an html element.
+tip: you can define a border for nearly all html elements.
+
+example
+  use of css border property: 
+
+ p {  border: 2px 
+solid powderblue;}
+
+try it yourself »
+
+
+
+css padding
+the css padding property defines a padding 
+(space) between the text and the border.
+
+example
+  use of css border and padding properties:
+
+ p {  border: 2px 
+solid powderblue;  padding: 30px;}
+try it yourself »
+
+
+
+css margin
+the css margin property defines a margin 
+(space) outside the border.
+
+example
+  use of css border and margin properties:
+
+ p {  border: 2px 
+solid powderblue;  margin: 50px;
+ }
+try it yourself »
+
+
+
+link to external css
+external style sheets can be referenced with a full url or with a path relative to the current web page.
+
+
+example
+  this example uses a full url to link to a style sheet:
+
+<link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
+
+
+try it yourself »
+
+
+
+example
+
+this example links to a style sheet located in the html folder on the current web site: 
+
+<link rel="stylesheet" href="/html/styles.css">
+
+
+try it yourself »
+
+
+
+example
+  this example links to a style sheet located in the same folder as the current page:
+
+<link rel="stylesheet" href="styles.css">
+
+
+try it yourself »
+
+
+
+you can read more about file paths in the chapter html 
+file paths.
+
+
+
+chapter summary
+
+  use the html style attribute for inline styling
+  use the html <style> element to define internal css
+  use the html <link> element to refer to an external css file
+  use the html <head> element to store <style> and <link> elements
+  use the css color property for text colors
+  use the css font-family property for text fonts
+  use the css font-size property for text sizes
+  use the css border property for borders
+  use the css padding property for space inside the border
+  use the css margin property for space outside the border
+
+
+  tip: you can learn much more about css in our css tutorial.
+
+
+
+html exercises
+
+test yourself with exercises
+
+exercise:
+use css to set the background color of the document (body) to yellow.
+
+<!doctype html>
+
+<html>
+
+<head>
+
+<style>
+
+ 
+
+  :yellow;
+
+
+
+</style>
+
+</head>
+
+<body>
+
+<h1>my home page</h1>
+
+</body>
+
+</html>
+
+
+submit answer »
+start the exercise
+
+
+
+
+html style tags
+
+
+tag
+description
+
+
+<style>
+defines style information for an html document
+
+
+<link>
+defines a link between a document and an external resource 
+
+
+
+  for a complete list of all available html tags, visit our html tag reference.
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

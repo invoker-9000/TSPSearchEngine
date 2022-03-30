@@ -1,0 +1,1106 @@
+
+
+
+html audio/video dom reference
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+html reference
+html by alphabet
+html by category
+html browser support
+html attributes
+html global attributes
+html events
+html colors
+html canvas
+html audio/video
+html character sets
+html doctypes
+html url encode
+html language codes
+html country codes
+http messages
+http methods
+px to em converter
+keyboard shortcuts
+
+
+html tags
+<!-->
+<!doctype>
+<a>
+<abbr>
+<acronym>
+<address>
+<applet>
+<area>
+<article>
+<aside>
+<audio>
+<b>
+<base>
+<basefont>
+<bdi>
+<bdo>
+<big>
+<blockquote>
+<body>
+<br>
+<button>
+<canvas>
+<caption>
+<center>
+<cite>
+<code>
+<col>
+<colgroup>
+<data>
+<datalist>
+<dd>
+<del>
+<details>
+<dfn>
+<dialog>
+<dir>
+<div>
+<dl>
+<dt>
+<em>
+<embed>
+<fieldset>
+<figcaption>
+<figure>
+<font>
+<footer>
+<form>
+<frame>
+<frameset>
+<h1> - <h6>
+<head>
+<header>
+<hr>
+<html>
+<i>
+<iframe>
+<img>
+<input>
+<ins>
+<kbd>
+<label>
+<legend>
+<li>
+<link>
+<main>
+<map>
+<mark>
+<meta>
+<meter>
+<nav>
+<noframes>
+<noscript>
+<object>
+<ol>
+<optgroup>
+<option>
+<output>
+<p>
+<param>
+<picture>
+<pre>
+<progress>
+<q>
+<rp>
+<rt>
+<ruby>
+<s>
+<samp>
+<script>
+<section>
+<select>
+<small>
+<source>
+<span>
+<strike>
+<strong>
+<style>
+<sub>
+<summary>
+<sup>
+<svg>
+<table>
+<tbody>
+<td>
+<template>
+<textarea>
+<tfoot>
+<th>
+<thead>
+<time>
+<title>
+<tr>
+<track>
+<tt>
+<u>
+<ul>
+<var>
+<video>
+<wbr>
+
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+
+html audio/video dom reference
+
+? previous
+next ?
+
+
+
+html audio and video dom reference
+the html5 dom has methods, properties, and events for the <audio> and <video> 
+elements.
+
+
+html audio/video methods
+
+
+
+method
+description
+
+  
+addtexttrack()
+adds a new text track to the audio/video
+  
+  
+canplaytype()
+checks if the browser can play the specified audio/video type
+  
+
+load()
+re-loads the audio/video element
+
+  
+play()
+starts playing the audio/video
+  
+  
+pause()
+pauses the currently playing audio/video
+  
+
+
+html audio/video properties
+
+
+
+
+property
+description
+
+  
+audiotracks
+returns an audiotracklist object representing available audio tracks
+  
+  
+autoplay
+sets or returns whether the audio/video should start playing as soon as it is 
+loaded
+  
+  
+buffered
+returns a timeranges object representing the buffered parts of the 
+audio/video
+  
+  
+controller
+returns the mediacontroller object representing the current media controller 
+of the audio/video
+  
+  
+controls
+sets or returns whether the audio/video should display controls (like play/pause 
+etc.)
+  
+  
+crossorigin
+sets or returns the cors settings of the audio/video
+  
+  
+currentsrc
+returns the url of the current audio/video
+  
+  
+currenttime
+sets or returns the current playback position in the audio/video (in seconds)
+  
+  
+defaultmuted
+sets or returns whether the audio/video should be muted by default
+  
+  
+defaultplaybackrate
+sets or returns the default speed of the audio/video playback
+  
+  
+duration
+returns the length of the current audio/video (in seconds)
+  
+  
+ended
+returns whether the playback of the audio/video has ended or not
+  
+  
+error
+returns a mediaerror object representing the error state of the audio/video
+  
+  
+loop
+sets or returns whether the audio/video should start over again when finished
+  
+  
+mediagroup
+sets or returns the group the audio/video belongs to (used to link 
+multiple audio/video elements)
+  
+  
+muted
+sets or returns whether the audio/video is muted or not
+  
+  
+networkstate
+returns the current network state of the audio/video
+  
+  
+paused
+returns whether the audio/video is paused or not
+  
+  
+playbackrate
+sets or returns the speed of the audio/video playback
+  
+  
+played
+returns a timeranges object representing the played parts of the audio/video
+  
+  
+preload
+sets or returns whether the audio/video should be loaded when the page loads
+  
+  
+readystate
+returns the current ready state of the audio/video
+  
+  
+seekable
+returns a timeranges object representing the seekable parts of the 
+audio/video
+  
+  
+seeking
+returns whether the user is currently seeking in the audio/video
+  
+  
+src
+sets or returns the current source of the audio/video element
+  
+  
+startdate
+returns a date object representing the current time offset
+  
+  
+texttracks
+returns a texttracklist object representing the available text tracks
+  
+  
+videotracks
+returns a videotracklist object representing the available video tracks
+  
+  
+volume
+sets or returns the volume of the audio/video
+  
+
+
+
+
+
+
+
+  
+  
+
+
+
+html audio/video events
+
+
+
+event
+description
+
+
+abort
+fires when the loading of an audio/video is aborted
+
+  
+canplay
+fires when the browser can start playing the audio/video
+  
+  
+canplaythrough
+fires when the browser can play through the audio/video without stopping for buffering
+  
+  
+durationchange
+fires when the duration of the audio/video is changed
+  
+  
+emptied
+fires when the current playlist is empty
+  
+  
+ended
+fires when the current playlist is ended
+  
+  
+error
+fires when an error occurred during the loading of an audio/video
+  
+  
+loadeddata
+fires when the browser has loaded the current frame of the audio/video
+  
+  
+loadedmetadata
+fires when the browser has loaded meta data for the audio/video
+  
+  
+loadstart
+fires when the browser starts looking for the audio/video
+  
+  
+pause
+fires when the audio/video has been paused
+  
+
+play
+fires when the audio/video has been started or is no longer paused
+
+
+playing
+fires when the audio/video is playing after having been paused or stopped for buffering
+
+  
+progress
+fires when the browser is downloading the audio/video
+  
+  
+ratechange
+fires when the playing speed of the audio/video is changed
+  
+  
+seeked
+fires when the user is finished moving/skipping to a new position in the audio/video
+  
+  
+seeking
+fires when the user starts moving/skipping to a new position in the audio/video
+  
+  
+stalled
+fires when the browser is trying to get media data, but data is not 
+available
+  
+  
+suspend
+fires when the browser is intentionally not getting media data
+  
+  
+timeupdate
+fires when the current playback position has changed
+  
+  
+volumechange
+fires when the volume has been changed
+  
+
+waiting
+fires when the video stops because it needs to buffer the next frame
+
+
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

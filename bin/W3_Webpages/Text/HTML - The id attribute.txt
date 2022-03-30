@@ -1,0 +1,992 @@
+
+
+
+html - the id attribute
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+html tutorial
+html home
+html introduction
+html editors
+html basic
+html elements
+html attributes
+html headings
+html paragraphs
+html styles
+html formatting
+html quotations
+html comments
+html colors
+
+  colors
+  rgb
+  hex
+  hsl
+
+html css
+html links
+
+  links
+  link colors
+  link bookmarks
+
+html images
+
+  images
+  image map
+  background images
+  the picture element
+
+html favicon
+html tables
+
+  html tables
+  table borders
+  table sizes
+  table headers
+  padding & spacing
+  colspan & rowspan
+  table styling
+  table colgroup
+
+
+
+
+html lists
+
+lists
+unordered lists
+ordered lists
+other lists
+
+html block & inline
+html classes
+html id
+html iframes
+html javascript
+html file paths
+html head
+html layout
+html responsive
+html computercode
+html semantics
+html style guide
+html entities
+html symbols
+html emojis
+html charset
+html url encode
+html vs. xhtml
+
+html forms
+html forms
+html form attributes
+html form elements
+html input types
+html input attributes
+html input form attributes
+
+html graphics
+html canvas
+html svg
+
+html media
+html media
+html video
+html audio
+html plug-ins
+html youtube
+
+html apis
+html geolocation
+html drag/drop
+html web storage
+html web workers
+html sse
+
+html examples
+html examples
+html quiz
+html exercises
+html certificate
+html summary
+html accessibility
+
+html references
+html tag list
+html attributes
+html global attributes
+html browser support
+html events
+html colors
+html canvas
+html audio/video
+html doctypes
+html character sets
+html url encode
+html lang codes
+http messages
+http methods
+px to em converter
+keyboard shortcuts
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+html id attribute
+
+? previous
+next ?
+
+
+the html id attribute is used 
+to specify a unique id for an html element.
+you cannot have more than one element with the same id in an 
+html document.
+
+
+using the id attribute
+the id attribute specifies a unique id 
+for an html element. the value of the id 
+attribute must be unique within the html document.
+the id attribute is used to point 
+to a specific style declaration in a style sheet. it is also used by javascript to access and 
+manipulate the element with the specific id.
+the syntax for id is: write a hash character (#), followed by an id name. 
+then, define the css properties within curly braces {}.
+in the following example we have an <h1> element that points to the 
+id name 
+"myheader". this <h1> 
+element will be styled according to the #myheader 
+style definition in the head section:
+
+
+example
+
+  <!doctype html><html><head><style>#myheader {  
+  background-color: lightblue;  color: black;  padding: 40px;  
+  text-align: center;} </style></head><body><h1 id="myheader">my 
+  header</h1></body></html>
+
+ try it yourself »
+
+
+
+
+  note: the id name is case sensitive!
+  note: the id name must contain at least one 
+  character, cannot start with a number, and must not contain whitespaces (spaces, tabs, 
+  etc.).
+
+
+
+difference between class and id
+a 
+class name can be used by multiple html elements, while an id name must only be 
+used by one html element 
+within the page:
+
+example
+
+  <style>/* style the element with the id "myheader" 
+  */
+  #myheader {  background-color: lightblue;  
+  color: black;  padding: 
+  40px;  text-align: center;}/* style all 
+  elements with the class name "city" */.city
+  {  background-color: tomato;  color: white;  padding: 10px;} </style>
+  <!-- an element with a unique id --><h1 id="myheader">my 
+  cities</h1><!-- multiple elements with same class --><h2 class="city">london</h2><p>london is the capital of england.</p>
+  <h2 class="city">paris</h2><p>paris is the capital of france.</p>
+  <h2 class="city">tokyo</h2><p>tokyo is the capital of japan.</p>
+
+ try it yourself »
+
+
+  tip: you can learn much more about css in our css tutorial.
+
+
+
+
+
+
+  
+  
+
+
+
+html bookmarks with id and links
+html bookmarks are used to allow readers to jump to specific parts of a webpage.
+bookmarks can be useful if your page is very long.
+to use a bookmark, you must first create it, and then add a link 
+to it.
+then, when the link is clicked, the page will scroll to the location with the 
+bookmark.
+example
+first, create a bookmark with the id attribute:
+
+
+<h2 id="c4">chapter 4</h2>
+
+then, add a link to the bookmark ("jump to chapter 4"), from within the same page:
+
+example
+
+ <a href="#c4">jump to chapter 4</a>
+
+try it yourself »
+
+or, add a link to the bookmark ("jump to chapter 4"), from another page:
+
+
+<a href="html_demo.html#c4">jump to chapter 4</a>
+
+
+
+
+using the id attribute in javascript
+the id attribute can also be used by javascript to perform 
+some tasks for that specific element.
+javascript can access an element with a specific id with the getelementbyid() method:
+
+
+example
+  use the id attribute to manipulate text with javascript:
+
+  <script>function displayresult() {  document.getelementbyid("myheader").innerhtml = "have a nice day!";}
+  </script>
+
+ try it yourself »
+
+
+tip: study javascript in the html javascript chapter, or in our
+javascript tutorial.
+
+
+
+chapter summary
+
+the id attribute is used to specify a unique id 
+for an html element
+  the value of the id 
+attribute must be unique within the html document
+  the id 
+  attribute is used by css and javascript to style/select a specific element
+  the value of the id 
+  attribute is case sensitive
+  the id 
+  attribute is also used to create html bookmarks
+  javascript can access an element with a specific id with the getelementbyid() 
+  method
+
+
+
+html exercises
+
+test yourself with exercises
+
+exercise:
+add the correct html attribute to make the h1 element red.
+
+<!doctype html>
+
+<html>
+
+<head>
+
+<style>
+
+#myheader {color:red;}
+
+</style>
+
+</head>
+
+<body>
+
+<h1 >my home page</h1>
+
+</body>
+
+</html>
+
+
+submit answer »
+start the exercise
+
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

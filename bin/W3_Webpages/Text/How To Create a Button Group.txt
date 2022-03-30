@@ -1,0 +1,1112 @@
+
+
+
+how to create a button group
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+how to
+howto home
+
+menus
+icon bar
+menu icon
+accordion
+tabs
+vertical tabs
+tab headers
+full page tabs
+hover tabs
+top navigation
+responsive topnav
+navbar with icons
+search menu
+search bar
+fixed sidebar
+side navigation
+responsive sidebar
+fullscreen navigation
+off-canvas menu
+hover sidenav buttons
+sidebar with icons
+horizontal scroll menu
+vertical menu
+bottom navigation
+responsive bottom nav
+bottom border nav links
+right aligned menu links
+centered menu link
+equal width menu links
+fixed menu
+slide down bar on scroll
+hide navbar on scroll
+shrink navbar on scroll
+sticky navbar
+navbar on image
+hover dropdowns
+click dropdowns
+cascading dropdown
+dropdown in topnav
+dropdown in sidenav
+resp navbar dropdown
+subnavigation menu
+dropup
+mega menu
+mobile menu
+curtain menu
+collapsed sidebar
+collapsed sidepanel
+pagination
+breadcrumbs
+button group
+vertical button group
+sticky social bar
+pill navigation
+responsive header
+
+
+images
+slideshow
+slideshow gallery
+modal images
+lightbox
+responsive image grid
+image grid
+tab gallery
+image overlay fade
+image overlay slide
+image overlay zoom
+image overlay title
+image overlay icon
+image effects
+black and white image
+image text
+image text blocks
+transparent image text
+full page image
+form on image
+hero image
+blur background image
+change bg on scroll
+side-by-side images
+rounded images
+avatar images
+responsive images
+center images
+thumbnails
+border around image
+meet the team
+sticky image
+flip an image
+shake an image
+portfolio gallery
+portfolio with filtering
+image zoom
+image magnifier glass
+image comparison slider
+favicon
+
+
+buttons
+alert buttons
+outline buttons
+split buttons
+animated buttons
+fading buttons
+button on image
+social media buttons
+read more read less
+loading buttons
+download buttons
+pill buttons
+notification button
+icon buttons
+next/prev buttons
+more button in nav
+block buttons
+text buttons
+round buttons
+scroll to top button
+
+
+forms
+login form
+signup form
+checkout form
+contact form
+social login form
+register form
+form with icons
+newsletter
+stacked form
+responsive form
+popup form
+inline form
+clear input field
+hide number arrows
+copy text to clipboard
+animated search
+search button
+fullscreen search
+input field in navbar
+login form in navbar
+custom checkbox/radio
+custom select
+toggle switch
+check checkbox
+detect caps lock
+trigger button on enter
+password validation
+toggle password visibility
+multiple step form
+autocomplete
+turn off autocomplete
+turn off spellcheck
+file upload button
+empty input validation
+
+
+filters
+filter list
+filter table
+filter elements
+filter dropdown
+sort list
+sort table
+
+
+tables
+zebra striped table
+center tables
+full-width table
+side-by-side tables
+responsive tables
+comparison table
+
+
+more
+fullscreen video
+modal boxes
+delete modal
+timeline
+scroll indicator
+progress bars
+skill bar
+range sliders
+tooltips
+display element hover
+popups
+collapsible
+calendar
+html includes
+to do list
+loaders
+star rating
+user rating
+overlay effect
+contact chips
+cards
+flip card
+profile card
+product card
+alerts
+callout
+notes
+labels
+circles
+style hr
+coupon
+list group
+list without bullets
+responsive text
+cutout text
+glowing text
+fixed footer
+sticky element
+equal height
+clearfix
+responsive floats
+snackbar
+fullscreen window
+scroll drawing
+smooth scroll
+gradient bg scroll
+sticky header
+shrink header on scroll
+pricing table
+parallax
+aspect ratio
+responsive iframes
+toggle like/dislike
+toggle hide/show
+toggle dark mode
+toggle text
+toggle class
+add class
+remove class
+active class
+tree view
+remove property
+offline detection
+find hidden element
+redirect webpage
+zoom hover
+flip box
+center vertically
+center button in div
+transition on hover
+arrows
+shapes
+download link
+full height element
+browser window
+custom scrollbar
+hide scrollbar
+show/force scrollbar
+device look
+contenteditable border
+placeholder color
+text selection color
+bullet color
+vertical line
+dividers
+animate icons
+countdown timer
+typewriter
+coming soon page
+chat messages
+popup chat window
+split screen
+testimonials
+section counter
+quotes slideshow
+closable list items
+typical device breakpoints
+draggable html element
+js media queries
+syntax highlighter
+js animations
+js string length
+js exponentiation
+js default parameters
+get current url
+get current screen size
+get iframe elements
+
+
+website
+create a free website
+make a website
+make a static website
+host a static website
+make a website (w3.css)
+make a website (bs3)
+make a website (bs4)
+make a website (bs5)
+create and view a website
+create a link tree website
+create a portfolio
+create a resume
+make a restaurant website
+make a business website
+make a webbook
+center website
+contact section
+about page
+big header
+example website
+
+
+grid
+2 column layout
+3 column layout
+4 column layout
+expanding grid
+list grid view
+mixed column layout
+column cards
+zig zag layout
+blog layout
+
+
+google
+
+google charts
+google fonts
+google font pairings
+google set up analytics
+
+
+converters
+convert weight
+convert temperature
+convert length
+convert speed
+
+
+blog
+get a developer job
+become a front-end dev.
+
+
+
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+how to - button group
+
+? previous
+next ?
+
+
+learn how to create a "button group" with css.
+
+
+horizontal button groups
+group a series of buttons together on a single line in a button group:
+
+apple
+samsung
+sony
+
+
+
+apple
+samsung
+sony
+
+try it yourself »
+
+
+how to create a button group
+step 1) add html:
+
+example
+
+  <div class="btn-group">  <button>apple</button>  
+  <button>samsung</button>  <button>sony</button></div>
+
+
+step 2) add css:
+
+example
+
+  .btn-group button {  background-color: #04aa6d; /* green 
+  background */  border: 1px solid green; /* green border 
+  */  color: white; /* white text */  padding: 10px 
+  24px; /* some padding */  cursor: pointer; /* 
+  pointer/hand icon */  float: left; /* float the 
+  buttons side by side */}.btn-group button:not(:last-child) {  border-right: none; /* prevent double borders */}/* clear floats (clearfix hack) */.btn-group:after {
+    
+  content: "";  clear: both;  display: 
+  table;}/* add a background color on hover */.btn-group button:hover {  background-color: #3e8e41;}
+try it yourself »
+
+
+
+
+
+
+  
+  
+
+
+
+justified / full-width button group:
+
+example
+
+  <!-- three buttons in a group --><div class="btn-group" style="width:100%">  <button 
+  style="width:33.3%">apple</button>  
+  <button style="width:33.3%">samsung</button>  <button 
+  style="width:33.3%">sony</button></div><!-- 
+  four buttons in a group --><div class="btn-group" style="width:100%">  <button 
+  style="width:25%">apple</button>  
+  <button style="width:25%">samsung</button>  <button 
+  style="width:25%">sony</button>  <button 
+  style="width:25%">htc</button></div>
+try it yourself »
+
+
+
+tip: go to our css buttons tutorial to learn 
+more about how to style buttons.
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

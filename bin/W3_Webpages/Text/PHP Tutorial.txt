@@ -1,0 +1,1767 @@
+
+
+php tutorial
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+php tutorial
+php home
+php intro
+php install
+php syntax
+php comments
+php variables
+
+variables
+variables scope
+
+php echo / print
+php data types
+php strings
+php numbers
+php math
+php constants
+php operators
+php if...else...elseif
+php switch
+php loops
+
+loops
+while loop
+do while loop
+for loop
+foreach loop
+break/continue
+
+php functions
+php arrays
+
+arrays
+indexed arrays
+associative arrays
+multidimensional arrays
+sorting arrays
+
+php superglobals
+
+superglobals
+$globals
+$_server
+$_request
+$_post
+$_get
+
+php regex
+
+php forms
+php form handling
+php form validation
+php form required
+php form url/e-mail
+php form complete
+
+php advanced
+php date and time
+php include
+php file handling
+php file open/read
+php file create/write
+php file upload
+php cookies
+php sessions
+php filters
+php filters advanced
+php callback functions
+php json
+php exceptions
+
+
+php oop
+php what is oop
+php classes/objects
+php constructor
+php destructor
+php access modifiers
+php inheritance
+php constants
+php abstract classes
+php interfaces
+php traits
+php static methods
+php static properties
+php namespaces
+php iterables
+
+mysql database
+mysql database
+mysql connect
+mysql create db
+mysql create table
+mysql insert data
+mysql get last id
+mysql insert multiple
+mysql prepared
+mysql select data
+mysql where
+mysql order by
+mysql delete data
+mysql update data
+mysql limit data
+
+php xml
+php xml parsers
+php simplexml parser
+php simplexml - get
+php xml expat
+php xml dom
+
+php - ajax
+ajax intro
+ajax php
+ajax database
+ajax xml
+ajax live search
+ajax poll
+
+php examples
+php examples
+php compiler
+php quiz
+php exercises
+php certificate
+
+php reference
+php overview
+php array
+
+    array()
+    array_change_key_case()
+    array_chunk()
+    array_column()
+    array_combine()
+    array_count_values()
+    array_diff()
+    array_diff_assoc()
+    array_diff_key()
+    array_diff_uassoc()
+    array_diff_ukey()
+    array_fill()
+    array_fill_keys()
+    array_filter()
+    array_flip()
+    array_intersect()
+    array_intersect_assoc()
+    array_intersect_key()
+    array_intersect_uassoc()
+    array_intersect_ukey()
+    array_key_exists()
+    array_keys()
+    array_map()
+    array_merge()
+    array_merge_recursive()
+    array_multisort()
+    array_pad()
+    array_pop()
+    array_product()
+    array_push()
+    array_rand()
+    array_reduce()
+    array_replace()
+    array_replace_recursive()
+    array_reverse()
+    array_search()
+    array_shift()
+    array_slice()
+    array_splice()
+    array_sum()
+    array_udiff()
+    array_udiff_assoc()
+    array_udiff_uassoc()
+    array_uintersect()
+    array_uintersect_assoc()
+    array_uintersect_uassoc()
+    array_unique()
+    array_unshift()
+    array_values()
+    array_walk()
+    array_walk_recursive()
+    arsort()
+    asort()
+    compact()
+    count()
+    current()
+    each()
+    end()
+    extract()
+    in_array()
+    key()
+    krsort()
+    ksort()
+    list()
+    natcasesort()
+    natsort()
+    next()
+    pos()
+    prev()
+    range()
+    reset()
+    rsort()
+    shuffle()
+    sizeof()
+    sort()
+    uasort()
+    uksort()
+    usort()
+
+php calendar
+
+    cal_days_in_month()
+    cal_from_jd()
+    cal_info()
+    cal_to_jd()
+    easter_date()
+    easter_days()
+    frenchtojd()
+    gregoriantojd()
+    jddayofweek()
+    jdmonthname()
+    jdtofrench()    
+    jdtogregorian()
+    jdtojewish()
+    jdtojulian()
+    jdtounix()
+    jewishtojd()    
+    juliantojd()
+    unixtojd()
+
+php date
+
+    checkdate()
+    date_add()
+    date_create_from_format()
+    date_create()
+    date_date_set()
+    date_default_timezone_get()
+    date_default_timezone_set()
+    date_diff()
+    date_format()
+    date_get_last_errors()
+    date_interval_create_from_date_string()
+    date_interval_format()
+    date_isodate_set()
+    date_modify()
+    date_offset_get()
+    date_parse_from_format()
+    date_parse()
+    date_sub()
+    date_sun_info()
+    date_sunrise()
+    date_sunset()    
+    date_time_set()    
+    date_timestamp_get()
+    date_timestamp_set()
+    date_timezone_get()
+    date_timezone_set()
+    date()
+    getdate()
+    gettimeofday()
+    gmdate()
+    gmmktime()
+    gmstrftime()
+    idate()
+    localtime()
+    microtime()
+    mktime()
+    strftime()
+    strptime()
+    strtotime()
+    time()
+    timezone_abbreviations_list()
+    timezone_identifiers_list()
+    timezone_location_get()
+    timezone_name_from_abbr()
+    timezone_name_get()
+    timezone_offset_get()
+    timezone_open()
+    timezone_transitions_get()
+    timezone_version_get()
+
+php directory
+
+    chdir()
+    chroot()
+    closedir()
+    dir()
+    getcwd()
+    opendir()
+    readdir()
+    rewinddir()
+    scandir()
+
+php error
+
+    debug_backtrace()
+    debug_print_backtrace()
+    error_get_last()
+    error_log()
+    error_reporting()
+    restore_error_handler()
+    restore_exception_handler()
+    set_error_handler()
+    set_exception_handler()
+    trigger_error()    
+
+php exception
+
+    exception()
+    getcode()
+    getfile()
+    getmessage()
+    getline()
+    getprevious()
+    gettrace()
+    gettraceasstring()
+
+php filesystem
+
+    basename()
+    chgrp()
+    chmod()
+    chown()
+    clearstatcache()
+    copy()
+    delete()    
+    dirname()
+    disk_free_space()
+    disk_total_space()
+    diskfreespace()
+    fclose()
+    feof()
+    fflush()    
+    fgetc()
+    fgetcsv()
+    fgets()
+    fgetss()
+    file()
+    file_exists()
+    file_get_contents()    
+    file_put_contents()
+    fileatime()
+    filectime()
+    filegroup()
+    fileinode()
+    filemtime()
+    fileowner()
+    fileperms()    
+    filesize()
+    filetype()    
+    flock()
+    fnmatch()
+    fopen()
+    fpassthru()
+    fputcsv()
+    fputs()
+    fread()    
+    fscanf()
+    fseek()    
+    fstat()
+    ftell()
+    ftruncate()
+    fwrite()
+    glob()
+    is_dir()
+    is_executable()    
+    is_file()
+    is_link()    
+    is_readable()
+    is_uploaded_file()    
+    is_writable()
+    is_writeable()    
+    lchgrp()
+    lchown()
+    link()    
+    linkinfo()
+    lstat()    
+    mkdir()
+    move_uploaded_file()    
+    parse_ini_file()
+    parse_ini_string()
+    pathinfo()
+    pclose()
+    popen()
+    readfile()
+    readlink()
+    realpath()
+    realpath_cache_get()
+    realpath_cache_size()
+    rename()
+    rewind()
+    rmdir()
+    set_file_buffer()
+    stat()
+    symlink()
+    tempnam()
+    tmpfile()
+    touch()
+    umask()
+    unlink()
+
+php filter
+
+    filter_has_var()
+    filter_id()
+    filter_input()
+    filter_input_array()
+    filter_list()
+    filter_var()
+    filter_var_array()    
+
+php ftp
+
+    ftp_alloc()
+    ftp_cdup()
+    ftp_chdir()
+    ftp_chmod()
+    ftp_close()
+    ftp_connect()
+    ftp_delete()
+    ftp_exec()
+    ftp_fget()
+    ftp_fput()
+    ftp_get()
+    ftp_get_option()
+    ftp_login()
+    ftp_mdtm()
+    ftp_mkdir()
+    ftp_mlsd()
+    ftp_nb_continue()
+    ftp_nb_fget()
+    ftp_nb_fput()
+    ftp_nb_get()
+    ftp_nb_put()
+    ftp_nlist()
+    ftp_pasv()
+    ftp_put()
+    ftp_pwd()
+    ftp_quit()
+    ftp_raw()
+    ftp_rawlist()
+    ftp_rename()
+    ftp_rmdir()
+    ftp_set_option()
+    ftp_site()
+    ftp_size()
+    ftp_ssl_connect()
+    ftp_systype()
+
+php json
+
+    json_decode()
+    json_encode()
+
+
+
+php keywords
+
+    abstract
+    and
+    as
+    break
+    callable
+    case
+    catch
+    class
+    clone
+    const
+    continue
+    declare
+    default
+    do
+    echo
+    else
+    elseif
+    empty
+    enddeclare
+    endfor
+    endforeach
+    endif
+    endswitch
+    extends
+    final
+    finally
+    fn
+    for
+    foreach
+    function
+    global
+    if
+    implements
+    include
+    include_once
+    instanceof
+    insteadof
+    interface
+    isset
+    list
+    namespace
+    new
+    or
+    print
+    private
+    protected
+    public
+    require
+    require_once
+    return
+    static
+    switch
+    throw
+    trait
+    try
+    use
+    var
+    while
+    xor
+    yield
+    yield from
+
+
+
+php libxml
+
+    libxml_clear_errors()
+    libxml_disable_entity_loader()
+    libxml_get_errors()
+    libxml_get_last_error()
+    libxml_set_external_entity_loader()
+    libxml_set_streams_context()
+    libxml_use_internal_errors()
+
+php mail
+
+    ezmlm_hash()
+    mail()
+
+php math
+
+    abs()
+    acos()
+    acosh()
+    asin()
+    asinh()
+    atan()
+    atan2()
+    atanh()
+    base_convert()
+    bindec()
+    ceil()
+    cos()
+    cosh()
+    decbin()
+    dechex()
+    decoct()
+    deg2rad()
+    exp()
+    expm1()
+    floor()
+    fmod()
+    getrandmax()
+    hexdec()
+    hypot()
+    intdiv()
+    is_finite()
+    is_infinite()
+    is_nan()
+    lcg_value()
+    log()
+    log10()
+    log1p()
+    max()
+    min()
+    mt_getrandmax()
+    mt_rand()
+    mt_srand()
+    octdec()
+    pi()
+    pow()
+    rad2deg()
+    rand()
+    round()
+    sin()
+    sinh()
+    sqrt()
+    srand()
+    tan()
+    tanh()
+
+php misc
+
+    connection_aborted()
+    connection_status()
+    connection_timeout()
+    constant()
+    define()
+    defined()
+    die()
+    eval()
+    exit()
+    get_browser()
+    __halt_compiler()
+    highlight_file()
+    highlight_string()
+    hrtime()    
+    ignore_user_abort()
+    pack()
+    php_strip_whitespace()
+    show_source()
+    sleep()
+    sys_getloadavg()
+    time_nanosleep()
+    time_sleep_until()
+    uniqid()
+    unpack()
+    usleep()
+
+php mysqli
+
+    affected_rows
+    autocommit    
+    change_user
+    character_set_name
+    close
+    commit
+    connect
+    connect_errno
+    connect_error    
+    data_seek    
+    debug
+    dump_debug_info
+    errno    
+    error
+    error_list    
+    fetch_all    
+    fetch_array    
+    fetch_assoc    
+    fetch_field    
+    fetch_field_direct    
+    fetch_fields    
+    fetch_lengths    
+    fetch_object        
+    fetch_row        
+    field_count        
+    field_seek        
+    get_charset            
+    get_client_info                
+    get_client_stats                
+    get_client_version                
+    get_connection_stats
+    get_host_info
+    get_proto_info
+    get_server_info
+    get_server_version
+    info
+    init
+    insert_id    
+    kill
+    more_results
+    multi_query
+    next_result    
+    options
+    ping
+    poll
+    prepare        
+    query
+    real_connect    
+    real_escape_string
+    real_query    
+    reap_async_query
+    refresh
+    rollback    
+    select_db
+    set_charset
+    set_local_infile_handler    
+    sqlstate    
+    ssl_set
+    stat
+    stmt_init        
+    thread_id    
+    thread_safe
+    use_result
+    warning_count           
+
+php network
+
+    checkdnsrr()
+    closelog()
+    dns_check_record()
+    dns_get_mx()
+    dns_get_record()    
+    fsockopen()    
+    gethostbyaddr()
+    gethostbyname()
+    gethostbynamel()    
+    gethostname()
+    getmxrr()
+    getprotobyname()    
+    getprotobynumber()    
+    getservbyname()    
+    getservbyport()    
+    header_register_callback()    
+    header_remove()            
+    header()
+    headers_list()
+    headers_sent()
+    http_response_code()
+    inet_ntop()
+    inet_pton()
+    ip2long()
+    long2ip()
+    openlog()
+    pfsockopen()    
+    setcookie()
+    setrawcookie()
+    socket_get_status()
+    socket_set_blocking()
+    socket_set_timeout()            
+    syslog()
+
+
+php output control
+
+    flush()
+    ob_clean()    
+    ob_end_clean()    
+    ob_end_flush()    
+    ob_flush()    
+    ob_get_clean()    
+    ob_get_contents()    
+    ob_get_flush()    
+    ob_get_length()    
+    ob_get_level()    
+    ob_gzhandler()    
+    ob_implicit_flush()    
+    ob_list_handlers()    
+    ob_start()    
+    output_add_rewrite_var()    
+    output_reset_rewrite_vars()    
+
+
+php regex
+
+    preg_filter()
+    preg_grep()    
+    preg_last_error()    
+    preg_match()    
+    preg_match_all()    
+    preg_replace    
+    preg_replace_callback    
+    preg_replace_callback_array    
+    preg_split    
+    preg_quote    
+
+
+php simplexml
+
+    __construct()
+    __tostring()    
+    addattribute()
+    addchild()
+    asxml()
+    attributes()    
+    children()    
+    count()
+    getdocnamespaces()
+    getname()    
+    getnamespaces()
+    registerxpathnamespace()
+    savexml()    
+    simplexml_import_dom()    
+    simplexml_load_file()    
+    simplexml_load_string()    
+    xpath()
+    
+    current()
+    getchildren()            
+    haschildren()
+    key()
+    next()
+    rewind()
+    valid()
+
+php stream
+php string
+
+    addcslashes()
+    addslashes()
+    bin2hex()
+    chop()
+    chr()
+    chunk_split()
+    convert_cyr_string()
+    convert_uudecode()
+    convert_uuencode()        
+    count_chars()
+    crc32()
+    crypt()
+    echo()
+    explode()
+    fprint()
+    get_html_translation_table()
+    hebrev()
+    hebrevc()
+    hex2bin()
+    html_entity_decode()
+    htmlentities()
+    htmlspecialchars_decode()
+    htmlspecialchars()
+    implode()
+    join()
+    lcfirst()
+    levenshtein()
+    localeconv()
+    ltrim()
+    md5()
+    md5_file()
+    metaphone()
+    money_format()
+    nl_langinfo()
+    nl2br()
+    number_format()
+    ord()
+    parse_str()
+    print()    
+    printf()
+    quoted_printable_decode()
+    quoted_printable_encode()
+    quotemeta()
+    rtrim()
+    setlocale()
+    sha1()
+    sha1_file()
+    similar_text()
+    soundex()
+    sprintf()
+    sscanf()
+    str_getcsv()
+    str_ireplace()
+    str_pad()
+    str_repeat()
+    str_replace()
+    str_rot13()
+    str_shuffle()
+    str_split()
+    str_word_count()
+    strcasecmp()
+    strchr()
+    strcmp()
+    strcoll()
+    strcspn()
+    strip_tags()
+    stripcslashes()
+    stripslashes()
+    stripos()
+    stristr()
+    strlen()
+    strnatcasecmp()
+    strnatcmp()
+    strncasecmp()
+    strncmp()
+    strpbrk()
+    strpos()
+    strrchr()
+    strrev()
+    strripos()
+    strrpos()
+    strspn()
+    strstr()
+    strtok()
+    strtolower()
+    strtoupper()
+    strtr()
+    substr()
+    substr_compare()
+    substr_count()
+    substr_replace()
+    trim()
+    ucfirst()
+    ucwords()
+    vfprintf()
+    vprintf()
+    vsprintf()
+    wordwrap()
+
+php variable handling
+
+    boolval()
+    debug_zval_dump()    
+    doubleval()    
+    is_countable()    
+    empty()    
+    floatval()
+    get_defined_vars()
+    get_resource_type()
+    gettype()
+    intval()
+    is_array()
+    is_bool()    
+    is_callable()
+    is_double()        
+    is_float()    
+    is_int()
+    is_integer()
+    is_iterable()    
+    is_long()    
+    is_null()    
+    is_numeric()
+    is_object()        
+    is_real()
+    is_resource()            
+    is_scalar()    
+    is_string()    
+    isset()    
+    print_r()    
+    serialize()    
+    settype()    
+    strval()    
+    unserialize()    
+    unset()    
+    var_dump()    
+    var_export()    
+
+php xml parser
+
+    utf8_decode()
+    utf8_encode()
+    xml_error_string()
+    xml_get_current_byte_index()
+    xml_get_current_column_number()        
+    xml_get_current_line_number()
+    xml_get_error_code()
+    xml_parse()
+    xml_parse_into_struct()            
+    xml_parser_create_ns()
+    xml_parser_create()
+    xml_parser_free()
+    xml_parser_get_option()    
+    xml_parser_set_option()
+    xml_set_character_data_handler()
+    xml_set_default_handler()
+    xml_set_element_handler()
+    xml_set_end_namespace_decl_handler()
+    xml_set_external_entity_ref_handler()
+    xml_set_notation_decl_handler()    
+    xml_set_object()
+    xml_set_processing_instruction_handler()
+    xml_set_start_namespace_decl_handler()    
+    xml_set_unparsed_entity_decl_handler()
+
+php zip
+
+    zip_close()
+    zip_entry_close()
+    zip_entry_compressedsize()
+    zip_entry_compressionmethod()
+    zip_entry_filesize()
+    zip_entry_name()
+    zip_entry_open()
+    zip_entry_read()                    
+    zip_open()                    
+    zip_read()                        
+
+php timezones
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+php tutorial
+
+? home
+next ?
+
+
+
+learn php
+php is a server scripting language, and a powerful tool for making dynamic and interactive web pages.
+php is a widely-used, free, and efficient alternative to competitors such as microsoft's asp.
+start learning php now »
+
+
+
+easy learning with "php tryit"
+with our online "php tryit" editor, you can edit the php code, and click 
+on a button to view the result.
+
+
+example
+
+ <!doctype html>
+ <html>
+    <body>
+ <?php
+ echo "my first php script!";
+ ?>
+ 
+    </body>
+    </html>
+
+try it yourself »
+
+click on the "try it yourself" button to see how it works.
+
+
+php exercises
+
+test yourself with exercises
+
+exercise:
+insert the missing part of the code below to output "hello world".
+
+ "hello world";
+
+
+
+submit answer »
+
+
+
+
+
+
+
+  
+  
+
+
+
+php examples
+learn by examples! this tutorial supplements all explanations with clarifying examples.
+see all php examples
+
+
+php quiz test
+learn by taking a quiz! this quiz will give you a signal of how much you know, or do not know, about php.
+start php quiz!
+
+
+php references
+w3schools' php reference contains different categories of all php functions, keywords and constants, along with examples.
+
+  array
+  calendar
+  date
+  directory
+  error
+  exception
+  filesystem
+  filter
+  ftp
+  json
+  keywords
+  libxml
+  mail
+  math
+  misc
+  mysqli
+  network
+  output control
+  regex
+  simplexml
+  stream  
+  string
+  var handling
+  xml parser
+  zip
+  timezones
+
+
+
+
+
+
+
+
+
+kickstart your career
+get certified by completing the  course
+
+get certified
+
+
+
+
+
+w3schools certified  .  2022
+
+
+
+
+
+? home
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

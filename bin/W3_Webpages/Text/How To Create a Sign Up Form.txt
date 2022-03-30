@@ -1,0 +1,1241 @@
+
+
+
+how to create a sign up form
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+how to
+howto home
+
+menus
+icon bar
+menu icon
+accordion
+tabs
+vertical tabs
+tab headers
+full page tabs
+hover tabs
+top navigation
+responsive topnav
+navbar with icons
+search menu
+search bar
+fixed sidebar
+side navigation
+responsive sidebar
+fullscreen navigation
+off-canvas menu
+hover sidenav buttons
+sidebar with icons
+horizontal scroll menu
+vertical menu
+bottom navigation
+responsive bottom nav
+bottom border nav links
+right aligned menu links
+centered menu link
+equal width menu links
+fixed menu
+slide down bar on scroll
+hide navbar on scroll
+shrink navbar on scroll
+sticky navbar
+navbar on image
+hover dropdowns
+click dropdowns
+cascading dropdown
+dropdown in topnav
+dropdown in sidenav
+resp navbar dropdown
+subnavigation menu
+dropup
+mega menu
+mobile menu
+curtain menu
+collapsed sidebar
+collapsed sidepanel
+pagination
+breadcrumbs
+button group
+vertical button group
+sticky social bar
+pill navigation
+responsive header
+
+
+images
+slideshow
+slideshow gallery
+modal images
+lightbox
+responsive image grid
+image grid
+tab gallery
+image overlay fade
+image overlay slide
+image overlay zoom
+image overlay title
+image overlay icon
+image effects
+black and white image
+image text
+image text blocks
+transparent image text
+full page image
+form on image
+hero image
+blur background image
+change bg on scroll
+side-by-side images
+rounded images
+avatar images
+responsive images
+center images
+thumbnails
+border around image
+meet the team
+sticky image
+flip an image
+shake an image
+portfolio gallery
+portfolio with filtering
+image zoom
+image magnifier glass
+image comparison slider
+favicon
+
+
+buttons
+alert buttons
+outline buttons
+split buttons
+animated buttons
+fading buttons
+button on image
+social media buttons
+read more read less
+loading buttons
+download buttons
+pill buttons
+notification button
+icon buttons
+next/prev buttons
+more button in nav
+block buttons
+text buttons
+round buttons
+scroll to top button
+
+
+forms
+login form
+signup form
+checkout form
+contact form
+social login form
+register form
+form with icons
+newsletter
+stacked form
+responsive form
+popup form
+inline form
+clear input field
+hide number arrows
+copy text to clipboard
+animated search
+search button
+fullscreen search
+input field in navbar
+login form in navbar
+custom checkbox/radio
+custom select
+toggle switch
+check checkbox
+detect caps lock
+trigger button on enter
+password validation
+toggle password visibility
+multiple step form
+autocomplete
+turn off autocomplete
+turn off spellcheck
+file upload button
+empty input validation
+
+
+filters
+filter list
+filter table
+filter elements
+filter dropdown
+sort list
+sort table
+
+
+tables
+zebra striped table
+center tables
+full-width table
+side-by-side tables
+responsive tables
+comparison table
+
+
+more
+fullscreen video
+modal boxes
+delete modal
+timeline
+scroll indicator
+progress bars
+skill bar
+range sliders
+tooltips
+display element hover
+popups
+collapsible
+calendar
+html includes
+to do list
+loaders
+star rating
+user rating
+overlay effect
+contact chips
+cards
+flip card
+profile card
+product card
+alerts
+callout
+notes
+labels
+circles
+style hr
+coupon
+list group
+list without bullets
+responsive text
+cutout text
+glowing text
+fixed footer
+sticky element
+equal height
+clearfix
+responsive floats
+snackbar
+fullscreen window
+scroll drawing
+smooth scroll
+gradient bg scroll
+sticky header
+shrink header on scroll
+pricing table
+parallax
+aspect ratio
+responsive iframes
+toggle like/dislike
+toggle hide/show
+toggle dark mode
+toggle text
+toggle class
+add class
+remove class
+active class
+tree view
+remove property
+offline detection
+find hidden element
+redirect webpage
+zoom hover
+flip box
+center vertically
+center button in div
+transition on hover
+arrows
+shapes
+download link
+full height element
+browser window
+custom scrollbar
+hide scrollbar
+show/force scrollbar
+device look
+contenteditable border
+placeholder color
+text selection color
+bullet color
+vertical line
+dividers
+animate icons
+countdown timer
+typewriter
+coming soon page
+chat messages
+popup chat window
+split screen
+testimonials
+section counter
+quotes slideshow
+closable list items
+typical device breakpoints
+draggable html element
+js media queries
+syntax highlighter
+js animations
+js string length
+js exponentiation
+js default parameters
+get current url
+get current screen size
+get iframe elements
+
+
+website
+create a free website
+make a website
+make a static website
+host a static website
+make a website (w3.css)
+make a website (bs3)
+make a website (bs4)
+make a website (bs5)
+create and view a website
+create a link tree website
+create a portfolio
+create a resume
+make a restaurant website
+make a business website
+make a webbook
+center website
+contact section
+about page
+big header
+example website
+
+
+grid
+2 column layout
+3 column layout
+4 column layout
+expanding grid
+list grid view
+mixed column layout
+column cards
+zig zag layout
+blog layout
+
+
+google
+
+google charts
+google fonts
+google font pairings
+google set up analytics
+
+
+converters
+convert weight
+convert temperature
+convert length
+convert speed
+
+
+blog
+get a developer job
+become a front-end dev.
+
+
+
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+how to - sign up form
+
+? previous
+next ?
+
+
+learn how to create a responsive sign up form with css.
+
+
+click on the button to open the sign up form:
+sign up
+
+
+    ×
+ 
+
+    
+        sign up
+    please fill in this form to create an account.
+    
+
+      
+        email
+        
+      
+      
+      
+        password
+          
+      
+      
+       
+        repeat password
+        
+         remember me
+      by creating an account you agree to our terms & privacy.
+       
+       
+       cancel
+      sign up
+
+
+    
+
+  
+
+
+try it yourself »
+
+
+
+how to create a sign up form
+step 1) add html:
+use a <form> element to process the input. you can learn more about this in our php tutorial. then add 
+inputs (with a matching label) for each field:
+
+example
+  
+    <form action="action_page.php" style="border:1px solid #ccc">  <div 
+    class="container">    <h1>sign up</h1>    
+    <p>please fill in this form to create an account.</p>    
+    <hr>    <label for="email"><b>email</b></label>    
+    <input type="text" placeholder="enter email" name="email" required>    
+    <label for="psw"><b>password</b></label>    <input type="password" 
+    placeholder="enter password" name="psw" required>    
+    <label for="psw-repeat"><b>repeat password</b></label>    <input 
+    type="password" placeholder="repeat password" name="psw-repeat" required>
+        <label>      <input 
+    type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> remember me    
+    </label>    <p>by creating an account you agree to 
+    our <a href="#" style="color:dodgerblue">terms & privacy</a>.</p>    
+    <div class="clearfix">      <button 
+    type="button" class="cancelbtn">cancel</button>      
+    <button type="submit" class="signupbtn">sign up</button>    
+    </div>  </div></form>
+
+
+step 2) add css:
+
+example
+
+  * {box-sizing: border-box}/* full-width input fields */  
+  input[type=text], input[type=password] {  width: 100%;  
+  padding: 15px;  margin: 5px 0 22px 0;  display: 
+  inline-block;  border: none;  background: #f1f1f1;}input[type=text]:focus, 
+  input[type=password]:focus {  background-color: #ddd;  
+  outline: none;}hr {  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;}/* 
+  set a style for all buttons */button {  background-color: 
+  #04aa6d;  color: white;  padding: 14px 20px;  
+  margin: 8px 0;  border: none;  cursor: pointer;  
+  width: 100%;  opacity: 0.9;}button:hover {  opacity:1;}/* extra styles for the 
+  cancel button */.cancelbtn {  padding: 14px 20px;  
+  background-color: #f44336;}/* float cancel and signup buttons and 
+  add an equal width */.cancelbtn, .signupbtn {  float: left;  
+  width: 50%;}/* add padding to container elements */.container {  
+  padding: 16px;}/* clear floats */.clearfix::after {  
+  content: "";  clear: both;  display: table;}/* change styles 
+  for cancel button and signup button on extra small screens */@media screen 
+  and (max-width: 300px) {  .cancelbtn, .signupbtn {    
+  width: 100%;  }}
+try it yourself »
+
+
+
+how to create a modal sign up form
+step 1) add html:
+use a <form> element to process the input. you can learn more about this in our php tutorial. then add 
+inputs (with a matching label) for each field:
+
+
+example
+
+  <!-- button to open the modal --><button onclick="document.getelementbyid('id01').style.display='block'">sign 
+  up</button><!-- the modal (contains the sign up form) -->
+  <div id="id01" class="modal">  <span onclick="document.getelementbyid('id01').style.display='none'" 
+  class="close" title="close modal">times;</span>  <form 
+  class="modal-content" action="/action_page.php">    <div 
+  class="container">      <h1>sign up</h1>      
+  <p>please fill in this form to create an account.</p>      
+  <hr>      <label for="email"><b>email</b></label>      
+  <input type="text" placeholder="enter email" name="email" required>      
+  <label for="psw"><b>password</b></label>      <input 
+  type="password" placeholder="enter password" name="psw" required>      
+  <label for="psw-repeat"><b>repeat password</b></label>      <input 
+  type="password" placeholder="repeat password" name="psw-repeat" required>
+        <label>        
+  <input type="checkbox" checked="checked" 
+  name="remember" style="margin-bottom:15px"> remember 
+  me      </label>      
+  <p>by creating an account you agree to our <a href="#" style="color:dodgerblue">terms 
+  & privacy</a>.</p>      <div class="clearfix">        
+  <button type="button" onclick="document.getelementbyid('id01').style.display='none'" 
+  class="cancelbtn">cancel</button>        
+  <button type="submit" class="signup">sign up</button>      
+  </div>    </div>  </form></div>
+
+
+
+
+
+
+  
+  
+
+
+step 2) add css:
+
+example
+
+  * {box-sizing: border-box}/* full-width input fields */  
+  input[type=text], input[type=password] {  width: 100%;  
+  padding: 15px;  margin: 5px 0 22px 0;  display: 
+  inline-block;  border: none;  background: #f1f1f1;}/* add a background color when the inputs get 
+  focus */input[type=text]:focus, input[type=password]:focus {  
+  background-color: #ddd;  outline: none;}/* set a style for all 
+  buttons */button {  background-color: #04aa6d;  color: 
+  white;  padding: 14px 20px;  margin: 8px 0;  
+  border: none;  cursor: pointer;  width: 100%;  
+  opacity: 0.9;}
+  button:hover {  opacity:1;}/* extra styles for the cancel button 
+  */.cancelbtn {  padding: 14px 20px;  background-color: 
+  #f44336;}/* float cancel and signup buttons and add an equal width 
+  */.cancelbtn, .signupbtn {  float: left;  width: 50%;
+  }/* 
+  add padding to container elements */.container {  padding: 
+  16px;}/* the modal (background) */.modal {  display: none; /* 
+  hidden by default */  position: fixed; /* stay in place */  
+  z-index: 1; /* sit on top */  left: 0;  top: 0;  
+  width: 100%; /* full width */  height: 100%; /* full height */  
+  overflow: auto; /* enable scroll if needed */  background-color: 
+  #474e5d;  padding-top: 50px;}/* modal 
+  content/box */.modal-content {  background-color: #fefefe;  
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered 
+  */  border: 1px solid #888;  width: 80%; /* could be more or 
+  less, depending on screen size */}/* style the horizontal ruler */hr {  
+  border: 1px solid #f1f1f1;  margin-bottom: 25px;}/* the close button (x) 
+  */.close {  position: absolute;  right: 35px;  
+  top: 15px;  font-size: 40px;  font-weight: bold;  
+  color: #f1f1f1;}.close:hover,
+  .close:focus {  color: #f44336;  cursor: pointer;}/* clear 
+  floats */.clearfix::after {  content: "";  clear: both;  
+  display: table;}/* change styles for cancel button and signup button on 
+  extra small screens */@media screen and (max-width: 300px) {  .cancelbtn, 
+  .signupbtn {    width: 100%;  }}
+
+
+tip: you can also use the following javascript to close the modal by clicking outside of the modal content (and not just by using the "x" or "cancel" button to close it):
+
+
+example
+
+<script>// get the modalvar modal = document.getelementbyid('id01');
+// when the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {    if (event.target == 
+modal) {        modal.style.display = 
+"none";    }}
+</script>
+try it yourself »
+
+
+tip: go to our html form tutorial to learn 
+more about html forms.
+
+tip: go to our css form tutorial to learn 
+more about how to style form elements.
+
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1233 @@
+
+
+
+html examples
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+html tutorial
+html home
+html introduction
+html editors
+html basic
+html elements
+html attributes
+html headings
+html paragraphs
+html styles
+html formatting
+html quotations
+html comments
+html colors
+
+  colors
+  rgb
+  hex
+  hsl
+
+html css
+html links
+
+  links
+  link colors
+  link bookmarks
+
+html images
+
+  images
+  image map
+  background images
+  the picture element
+
+html favicon
+html tables
+
+  html tables
+  table borders
+  table sizes
+  table headers
+  padding & spacing
+  colspan & rowspan
+  table styling
+  table colgroup
+
+
+
+
+html lists
+
+lists
+unordered lists
+ordered lists
+other lists
+
+html block & inline
+html classes
+html id
+html iframes
+html javascript
+html file paths
+html head
+html layout
+html responsive
+html computercode
+html semantics
+html style guide
+html entities
+html symbols
+html emojis
+html charset
+html url encode
+html vs. xhtml
+
+html forms
+html forms
+html form attributes
+html form elements
+html input types
+html input attributes
+html input form attributes
+
+html graphics
+html canvas
+html svg
+
+html media
+html media
+html video
+html audio
+html plug-ins
+html youtube
+
+html apis
+html geolocation
+html drag/drop
+html web storage
+html web workers
+html sse
+
+html examples
+html examples
+html quiz
+html exercises
+html certificate
+html summary
+html accessibility
+
+html references
+html tag list
+html attributes
+html global attributes
+html browser support
+html events
+html colors
+html canvas
+html audio/video
+html doctypes
+html character sets
+html url encode
+html lang codes
+http messages
+http methods
+px to em converter
+keyboard shortcuts
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+html examples
+
+? previous
+next ?
+
+
+
+html basic
+
+html document
+html headings
+html paragraphs
+html links
+html images
+html buttons
+html lists
+
+examples explained
+
+
+html attributes
+
+the title attribute
+the href attribute
+the width and height attributes
+the alt attribute
+attribute without quotes
+attribute without quotes does not work
+
+examples explained
+
+
+html headings
+
+html headings
+html horizontal rules
+html head
+
+examples explained
+
+
+html paragraphs
+
+html paragraphs
+more html paragraphs
+the use of line breaks in html
+poem problems (some problems with html formatting)
+how to control the line breaks and spaces with the <pre> tag
+
+examples explained
+
+
+html styles
+
+html styles
+html background color
+html text color
+html text font
+html text size
+html text alignment
+
+examples explained
+
+
+
+
+
+  
+  
+
+
+
+html text formatting
+
+bold formatting using the <b> element
+strong formatting using the <strong> element
+italic formatting using the <i> element
+emphasized formatting using the <em> element
+small formatting using the <small> element
+marked formatting using the <mark> element
+marked deleted using the <del> element
+marked inserted using the <ins> element
+marked deleted and inserted using <del> and <ins>
+subscript formatting using the <sub> element
+superscript formatting using the <sup> element
+
+examples explained
+
+
+html quotations and citations
+
+formatting short quotations with the <q> element.
+formatting quoted sections with the <blockquote> element.
+formatting document author/owner information with the <address> element
+formatting abbreviations and acronyms the <abbr> element
+formatting work title with the <cite> element
+formatting text direction with the <bdo> element
+
+examples explained
+
+
+html comments
+
+hidden comments
+conditional comments
+comments for debugging
+
+examples explained
+
+
+html css
+
+html with inline css
+html with internal css
+html with external css
+html with css fonts
+html with css using the id attribute
+html with css using the class attribute
+html and css borders
+html and css padding
+html and css margin
+html and css full demo
+
+examples explained
+
+
+html links
+
+linking, using an absolute url
+linking, using a relative url
+changing the color of links
+removing the underline from links
+changing the target of a link
+an image as a link
+creating a bookmark link
+a link that breaks out of a frame
+a mailto link
+a mailto link with subject
+
+examples explained
+
+
+html images
+
+an image
+an image height and width using attributes
+an image height and width using css
+an image height and width using both
+an image in another folder
+an image with a broken link
+an image on another server
+using an image as a link
+a moving image
+an image map with clickable regions
+a floating image
+
+examples explained
+
+
+html tables
+
+basic html tables
+a table with borders
+a table with collapsed borders
+a table with cell padding
+a table with headings
+a table with left-aligned headings
+horizontal/vertical table headings
+a table with a caption
+table cells that span more than one column
+table cells that span more than one row
+a table with cell spacing
+a table with html tags inside
+tables with different style using id i
+tables with different style using id ii
+tables with different style using class i
+tables with different style using class ii
+
+examples explained
+
+
+html lists
+
+an unordered list (default)
+an unordered list with disc bullets
+an unordered list with circle bullets
+an unordered list with square bullets
+an unordered list without bullets
+an ordered list (default)
+an ordered list with numbers
+an ordered list with letters
+an ordered list with lowercase letters
+an ordered list with roman numbers
+an ordered list with lowercase roman numbers
+a description list
+a nested list i
+a nested list ii
+a horizontal list
+a horizontal list menu
+
+examples explained
+
+
+html block and inline elements
+
+the <div> element
+the <span> element
+styling a <div> element
+styling a <span> element
+
+examples explained
+
+
+html classes
+
+style all elements with a specified class name
+access elements with a specified class name, with javascript
+multiple classes
+same class, different tag
+
+examples explained
+
+
+html id
+
+style an element with a specific id
+difference between class and id
+access an element with a specific id, with javascript
+
+examples explained
+
+
+html layout
+
+layout using float
+layout using flexbox
+layout using flexbox 2
+layout using flexbox 3
+
+examples explained
+
+
+html iframe
+
+inline frame (a frame inside an html page)
+
+examples explained
+
+
+html head elements
+
+a valid html document with no <html> <body, and <head>
+a valid html document with no <head> element
+the <title> element defines the document title
+the <style> element contains style information
+the <link> element defines a relationship to an external resource
+the <meta> element defines special meta information
+the <script> element defines client-side javascripts
+the <base> element defines the base url for all urls
+
+examples explained
+
+
+html scripts
+
+insert a script
+use of the <noscript> tag
+
+examples explained
+
+
+html computercode elements
+
+keyboard input formatting using the <kbd> element
+computer output formatting using the <samp> element
+programming code formatting using the <code> element
+programming code formatting preserving whitespace and line-breaks
+variable formatting using the <var> element
+
+examples explained
+
+
+html forms
+
+form with text input
+form with radio button input
+form with text fields and a submit button
+form with a text fields without a name attribute
+grouping form data
+
+examples explained
+
+
+html form elements
+
+a simple drop-down list
+a drop-down list with a pre-selected value
+a textarea (a multi-line text input field)
+an input button
+using the <datalist> element
+using the <output> element
+
+examples explained
+
+
+html input types
+
+input type text
+input type password
+input type radio
+input type checkbox
+input type button
+input type number - with restrictions
+input type number - with steps
+input type date - with date picker
+input type date - with restrictions
+input type color - with color picker
+input type range
+input type month
+input type week
+input type time
+input type datetime
+input type datetime-local
+input type email
+input type search
+input type tel
+input type url
+
+examples explained
+
+
+html input attributes
+
+the autocomplete attribute
+the novalidate attribute
+the autofocus_attribute
+the form attribute
+the formaction attribute
+the formenctype attribute
+the formmethod attribute
+the formnovalidate attribute
+the formtarget attribute
+the height and width attributes
+the list attribute
+the min and max attributes
+the multiple attribute
+the pattern attribute
+the placeholder attribute
+the required attribute
+the step attribute
+
+examples explained
+
+
+html canvas graphics
+
+draw on the canvas with javascript
+draw a line with lineto()
+draw a circle with arc()
+draw a text with filltext()
+draw a text with stroketext()
+draw a linear gradient
+draw a circular gradient
+draw an image with drawimage()
+
+examples explained
+
+
+html svg graphics
+
+svg circle
+svg rectangle
+svg rounded rectangle
+svg star
+svg logo
+
+examples explained
+
+
+html media
+
+play bunny
+play bear video with controls
+play bear video with autoplay
+play horse sound with controls
+
+examples explained
+
+
+html geolocation
+
+get geolocation coordinates
+handle geolocation errors
+
+get geolocation and watch the position
+
+examples explained
+
+
+html local storage
+
+store a name permanently
+store a counter permanently
+store a counter for one session
+
+examples explained
+
+
+html media
+
+play a video file
+play an audio file in html
+play a youtube video in html
+
+examples explained
+
+
+more html examples
+
+html drag and drop
+html web workers
+html server sent events
+
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

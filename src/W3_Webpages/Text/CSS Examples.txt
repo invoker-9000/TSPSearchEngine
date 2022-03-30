@@ -1,0 +1,1722 @@
+
+
+
+css examples
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+css tutorial
+css home
+css introduction
+css syntax
+css selectors
+css how to
+css comments
+css colors
+
+  colors
+  rgb
+  hex
+  hsl
+
+css backgrounds
+
+  background color
+  background image
+  background repeat
+  background attachment
+  background shorthand
+
+css borders
+
+  borders
+  border width
+  border color
+  border sides
+  border shorthand
+  rounded borders
+
+css margins
+
+margins
+margin collapse
+
+css padding
+css height/width
+css box model
+css outline
+
+outline
+outline width
+outline color
+outline shorthand
+outline offset
+
+css text
+
+text color
+text alignment
+text decoration
+text transformation
+text spacing
+text shadow
+
+css fonts
+
+font family
+font web safe
+font fallbacks
+font style
+font size
+font google
+font pairings
+font shorthand
+
+css icons
+css links
+css lists
+css tables
+
+table borders
+table size
+table alignment
+table style
+table responsive
+
+css display
+css max-width
+css position
+css z-index
+css overflow
+css float
+
+float
+clear
+float examples
+
+css inline-block
+css align
+css combinators
+css pseudo-class
+css pseudo-element
+css opacity
+css navigation bar
+
+navbar
+vertical navbar
+horizontal navbar
+
+css dropdowns
+css image gallery
+css image sprites
+css attr selectors
+css forms
+css counters
+css website layout
+css units
+css specificity
+css !important
+css math functions
+
+css advanced
+css rounded corners
+css border images
+css backgrounds
+css colors
+css color keywords
+css gradients
+
+linear gradients
+radial gradients
+conic gradients
+
+css shadows
+
+shadow effects
+box shadow
+
+css text effects
+css web fonts
+css 2d transforms
+css 3d transforms
+css transitions
+css animations
+css tooltips
+css style images
+css image reflection
+css object-fit
+css object-position
+css masking
+css buttons
+css pagination
+css multiple columns
+css user interface
+css variables
+
+the var() function
+overriding variables
+variables and javascript
+variables in media queries
+
+css box sizing
+css media queries
+css mq examples
+css flexbox
+
+css flexbox
+css flex container
+css flex items
+css flex responsive
+
+
+
+css responsive
+rwd intro
+rwd viewport
+rwd grid view
+rwd media queries
+rwd images
+rwd videos
+rwd frameworks
+rwd templates
+
+css grid
+grid intro
+grid container
+grid item
+
+css sass
+sass tutorial
+
+css examples
+css templates
+css examples
+css quiz
+css exercises
+css certificate
+
+css references
+css reference
+css selectors
+css functions
+css reference aural
+css web safe fonts
+css animatable
+css units
+css px-em converter
+css colors
+css color values
+css default values
+css browser support
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+css examples
+
+? previous
+next ?
+
+
+
+css syntax
+
+css syntax
+
+css syntax explained
+
+
+css selectors
+
+the element selector
+the id selector
+the class selector (for all elements)
+the class selector (for only <p> elements)
+an html element that refer to two classes
+the universal selector
+grouping selectors
+
+css selectors explained
+
+
+css how to / where to
+
+external css
+internal css
+inline css
+multiple style sheets
+cascading order
+
+css how to explained
+
+
+css comments
+
+single-line comment
+multi-line comment
+
+css comments explained
+
+
+
+css colors
+
+set the background color of an element
+set the text color
+set the border color
+set different color values
+set rgb values
+set hex values
+set hsl values
+
+css colors explained
+
+
+css backgrounds
+
+set the background color of a page
+set the background color of different elements
+set an image as the background of a page
+how to repeat a background image only horizontally
+how to position a background image
+a fixed background image (this image will not scroll with the rest of the page)
+all the background properties in one declaration
+advanced background example
+
+css background properties explained
+
+
+css borders
+
+set the width of the four borders
+set the width of the top border
+set the width of the bottom border
+set the width of the left border
+set the width of the right border
+set the style of the four borders
+set the style of the top border
+set the style of the bottom border
+set the style of the left border
+set the style of the right border
+set the color of the four borders
+set the color of the top border
+set the color of the bottom border
+set the color of the left border
+set the color of the right border
+all the border properties in one declaration
+add rounded borders to an element
+set different borders on each side
+all the top border properties in one declaration
+all the bottom border properties in one declaration
+all the left border properties in one declaration
+all the right border properties in one declaration
+
+css border properties explained
+
+
+css margins
+
+specify different margins for each side of an element
+use shorthand margin property with four values
+use shorthand margin property with three values
+use shorthand margin property with two values
+use shorthand margin property with one value
+set margin to auto to center the element within its container
+let the left margin be inherited from the parent element
+margin collapse
+
+margin properties explained
+
+
+
+
+
+  
+  
+
+
+
+css padding
+
+specify different padding for each side of an element
+use shorthand padding property with four values
+use shorthand padding property with three values
+use shorthand padding property with two values
+use shorthand padding property with one value
+padding and element width (without box-sizing)
+padding and element width (with box-sizing)
+set padding-left of an element
+set padding-right of an element
+set padding-top of an element
+set padding-bottom of an element
+
+css padding properties explained
+
+
+css height/width
+
+set the height and width of an element
+set max-width of an element
+set the height and width of different elements
+set the height and width of an image using percent
+set min-width and max-width of an element
+set min-height and max-height of an element
+
+css height/width properties explained
+
+
+css box model
+demonstrating the box model
+specify an element with a total width of 250px
+
+css box model explained
+
+
+css outline
+
+draw a line around an element (outline)
+set the style of an outline
+set the color of an outline
+set the width of an outline
+use the shorthand outline property
+add space between an outline and the edge/border of an element
+
+css outline properties explained
+
+
+css text
+
+set the text color of different elements
+align the text
+remove the line under links
+decorate the text
+control the letters in a text
+indent text
+specify the space between characters
+specify the space between lines
+set the text direction of an element
+increase the white space between words
+specify a text shadow for an element
+disable text wrapping inside an element
+vertical alignment of an image inside text
+
+css text properties explained
+
+
+css fonts
+
+set the font of a text
+set the size of the font
+set the size of the font in px
+set the size of the font in em
+set the size of the font in percent and em
+set the style of the font
+set the variant of the font
+set the boldness of the font
+all the font properties in one declaration
+
+font properties explained
+
+
+css icons
+
+font awesome icons
+bootstrap icons
+google icons
+
+css icons explained
+
+
+css links
+
+add different colors to visited/unvisited links
+use of text-decoration on links
+specify a background color for links
+add other styles to hyperlinks
+different types of cursors
+advanced - create link boxes
+advanced - create link boxes with borders
+
+css link properties explained
+
+
+css lists
+
+all the different list item markers in lists
+set an image as the list-item marker
+position the list-item marker
+remove default list settings
+all list properties in one declaration
+style lists with colors
+full-width bordered list
+
+css list properties explained
+
+
+css tables
+
+specify a black border for table, th, and td elements
+use of border-collapse
+single border around the table
+specify the width and height of a table
+set the horizontal alignment of content (text-align)
+set the vertical alignment of content (vertical-align)
+specify the padding for th and td elements
+horizontal dividers
+hoverable table
+striped tables
+specify the color of the table borders
+set the position of the table caption
+responsive table
+create a fancy table
+
+css table properties explained
+
+
+css display
+
+how to hide an element (visibility:hidden)
+how to not display an element (display:none)
+how to display a block-level element as an inline element
+how to display an inline element as a block-level element
+how to to use css together with javascript to show hidden content
+
+css display properties explained
+
+
+css positioning
+
+position an element relative to the browser window
+position an element relative to its normal position
+position an element with an absolute value
+sticky positioning
+overlapping elements
+set the shape of an element
+set the top edge of an image using a pixel value
+set the bottom edge of an image using a pixel value
+set the left edge of an image using a pixel value
+set the right edge of an image using a pixel value
+position image text (top left corner)
+position image text (top right corner)
+position image text (bottom left corner)
+position image text (bottom right corner)
+position image text (centered)
+
+css positioning properties explained
+
+
+css overflow
+
+using overflow: visible - the overflow is not clipped. it renders outside the element's box.
+using overflow: hidden - the overflow is clipped, and the rest of the content is hidden.
+using overflow: scroll - the overflow is clipped, but a scrollbar is added to see the rest of the content.
+using overflow: auto - if overflow is clipped, a scrollbar should be added to see the rest of the content.
+using overflow-x and overflow-y.
+
+css overflow properties explained
+
+
+css floating
+
+a simple use of the float property
+an image with border and margins that floats to the right in a paragraph
+an image with a caption that floats to the right
+let the first letter of a paragraph float to the left
+turning off float (using the clear property)
+turning off float (using the "clearfix" hack)
+create floating boxes
+create side-by-side images
+create equal-height boxes (with flexbox)
+creating a horizontal menu
+create a web layout example
+
+css float properties explained
+
+
+css inline-block
+
+show the differences between inline, inline-block and block
+using inline-block to create navigation links
+
+css inline-block explained
+
+
+
+css aligning elements
+
+center aligning with margin
+center aligning text
+center an image
+left/right aligning with position
+left/right aligning with position - crossbrowser solution
+left/right aligning with float
+left/right aligning with float - crossbrowser solution
+center vertically with padding
+center vertically and horizontally
+center vertically with line-height
+center vertically and horizontally with position
+
+css align properties explained
+
+
+css combinators
+
+descendant selector
+child selector
+adjacent sibling selector
+general sibling selector
+
+css combinators explained
+
+
+css pseudo-classes
+
+add different colors to a hyperlink
+add other styles to hyperlinks
+use of :focus
+:first-child - match the first p element
+:first-child - match the first i element in all p elements
+:first-child - match all i elements in all first child p elements
+use of :lang
+
+css pseudo-classes explained
+
+
+css pseudo-elements
+
+make the first letter special in a text
+make the first line special in a text
+make the first letter and first line special
+use :before to insert some content before an element
+use :after to insert some content after an element
+
+css pseudo-elements explained
+
+
+css opacity
+
+creating transparent images
+creating transparent images - mouseover effect
+reversed mouseover effect for transparent images
+transparent box/div
+transparent box/div with rgba values
+creating a transparent box with text on a background image
+
+css image opacity explained
+
+
+css navigation bars
+
+fully styled vertical navigation bar
+fully styled horizontal navigation bar
+full-height fixed vertical navigation bar
+fixed horizontal navigation bar
+sticky navigation bar (does not work in ie or edge 15 and earlier)
+responsive top navigation
+responsive side navigation
+
+css navigation bars explained
+
+
+css dropdowns
+
+dropdown text
+dropdown menu
+right-aligned dropdown menu
+dropdown image
+dropdown navigation bar
+
+css dropdowns explained
+
+
+css image gallery
+
+image gallery
+responsive image gallery
+
+css image gallery explained
+
+
+css image sprites
+
+an image sprite
+an image sprite - a navigation list
+an image sprite with hover effect
+
+css image sprites explained
+
+
+css attribute selectors
+
+selects all <a> elements with a target attribute
+selects all <a> elements with a target="_blank" attribute
+selects all elements with a title attribute that contains a space-separated list of words, one of which is "flower"selects all elements with a class attribute value that begins with "top" (must be whole word)
+selects all elements with a class attribute value that begins with "top" (must not be whole word)
+selects all elements with a class attribute value that ends with "test"
+selects all elements with a class attribute value that contains "te"
+
+css attribute selectors explained
+
+
+css forms
+
+full-width input field
+padded input field
+bordered input field
+bottom bordered input field
+colored input fields
+focused input fields
+focused input fields 2
+input with icon/image
+animated search input
+styling textareas
+styling select menus
+styling input buttons
+responsive form
+
+css forms explained
+
+
+css counters
+
+create a counter
+nested counters 1
+nested counters 2
+
+css counters explained
+
+
+css website layout
+
+simple, responsive website layout
+a website example
+
+css website layout explained
+
+
+css rounded corners
+
+add rounded corners to elements
+round each corner separately
+create elliptical corners
+
+css rounded corners explained
+
+
+css border images
+
+create an image border around an element, using the round keyword
+create an image border around an element, using the stretch keyword
+image border - different slice values
+
+css border images explained
+
+
+css backgrounds
+
+add multiple background images for an element
+specify the size of a background image
+scale a background image using "contain" and "cover"
+define sizes of multiple background images
+full-size background image (completely fill the content area)
+use background-origin to specify where the background image is positioned
+use background-clip to specify the painting area of the background
+
+css backgrounds explained
+
+
+css gradients
+
+linear gradient - top to bottom
+linear gradient - left to right
+linear gradient - diagonal
+linear gradient - with a specified angle
+linear gradient - with multiple color stops
+linear gradient - color of a rainbow + text
+linear gradient - with transparency
+linear gradient - a repeating linear gradient
+radial gradient - evenly spaced color stops
+radial gradient - differently spaced color stops
+radial gradient - set shape
+radial gradient - different size keywords
+radial gradient - a repeating radial gradient
+
+css gradients explained
+
+
+css shadow effects
+
+simple shadow effect
+add a color to the shadow
+add a blur effect to the shadow
+white text with black shadow
+a red neon glow shadow
+a red and blue neon glow shadow
+white text with black, blue, and darkblue shadow
+add a simple box-shadow to an element
+add color to box-shadow
+add color and blur effect to box-shadow
+create paper-like cards (text)
+create paper-like cards (polaroid images)
+
+css shadow effects explained
+
+
+css text effects
+
+specify how hidden, overflowed content should be signaled to the user
+how to display the overflowed content when hover over the element
+allow long words to be able to be broken and wrap onto the next line
+specify line breaking rules
+
+css text explained
+
+
+css web fonts
+
+use your "own" fonts in @font-face rule
+use your "own" fonts in @font-face rule (bold)
+
+css web fonts explained
+
+
+css 2d transforms
+
+translate() - move an element from its current position
+rotate() - rotate an element clockwise
+rotate() - rotate an element counter-clockwise
+scale() - increase an element
+scale() - decrease an element
+skewx() - skews an element along the x-axis
+skewy() - skews an element along the y-axis
+skew() - skews an element along the x and y-axis
+matrix() - rotate, scale, move, and skew an element
+
+css 2d transforms explained
+
+
+css 3d transforms
+
+rotatex() - rotate an element around its x-axis at a given degree
+rotatey() - rotate an element around its y-axis at a given degree
+rotatez() - rotate an element around its z-axis at a given degree
+
+css 3d transforms explained
+
+
+css transitions
+
+transition - change width of an element
+transition - change width and height of an element
+specify different speed curves for a transition
+specify a delay for a transition effect
+add a transformation to a transition effect
+specify all transition properties in one shorthand property
+
+css transitions explained
+
+
+css animations
+
+bind an animation to an element
+animation - change background-color of an element
+animation - change background-color and position of an element
+delay an animation
+run animation 3 times before it stops
+run animation for ever
+run animation in reverse direction
+run animation in alternate cycles
+speed curves for animations
+animation shorthand property
+
+css animations explained
+
+
+css tooltips
+
+right tooltip
+left tooltip
+top tooltip
+bottom tooltip
+tooltip with arrow
+animated tooltip
+
+css tooltips explained
+
+
+css style images
+
+rounded image
+circled image
+thumbnail image
+thumbnail image as link
+responsive image
+image text (top left corner)
+image text (top right corner)
+image text (bottom left corner)
+image text (bottom right corner)
+image text (centered)
+polaroid images
+grayscale image filter
+advanced - image modal with css and javascript
+
+css images explained
+
+
+css image reflection
+
+create reflection below the image
+create reflection to the right of the image
+create a gap between the image and the reflection
+create a fade-out effect on the reflection
+
+css image reflection explained
+
+
+css object-fit
+
+use object-fit: cover
+use object-fit: contain
+use object-fit: fill
+use object-fit: none
+use object-fit: scale-down
+all object-fit property values in one example
+
+css object-fit explained
+
+
+css object-position
+
+position the image so that the great old building is in center
+position the image so that the famous eiffel tower is in center
+
+css object-position explained
+
+
+css buttons
+
+basic css buttons
+button colors
+button sizes
+rounded buttons
+colored button borders
+hoverable buttons
+shadow buttons
+disabled buttons
+button width
+button groups
+bordered button group
+animated button (hover effect)
+animated button (ripple effect)
+animated button (pressed effect)
+
+css buttons explained
+
+
+css pagination
+
+simple pagination
+active and hoverable pagination
+rounded active and hoverable pagination
+hoverable transition effect
+bordered pagination
+rounded bordered pagination
+pagination with space between links
+pagination size
+pagination with space between links
+centered pagination
+breadcrumbs
+
+css pagination explained
+
+
+css multiple columns
+
+create multiple columns
+specify the gap between columns
+specify the style of the rule between columns
+specify the width of the rule between columns
+specify the color of the rule between columns
+specify the width, style and color of the rule between columns
+specify how many columns an element should span across
+specify a suggested, optimal width for the columns
+
+css multiple columns explained
+
+
+css user interface
+
+let a user resize the width of an element
+let a user resize the height of an element
+let a user resize both the width and height of an element
+add space between an outline and the border of an element
+
+css user interface explained
+
+
+css variables
+
+using the var() function
+using the var() function to insert several custom property values
+
+css variables explained
+
+
+css box sizing
+
+width of elements without box-sizing
+width of elements with box-sizing
+form elements + box-sizing
+
+css box sizing explained
+
+
+css flexbox
+
+flexbox with three flex items
+flexbox with three flex items - rtl direction
+flex-direction - row-reverse
+flex-direction - column
+flex-direction - column-reverse
+justify-content - flex-end
+justify-content - center
+justify-content - space-between
+justify-content - space-around
+align-items - stretch
+align-items - flex-start
+align-items - flex-end
+align-items - center
+align-items - baseline
+flex-wrap - nowrap
+flex-wrap - wrap
+flex-wrap - wrap-reverse
+align-content - center
+order the flex items
+margin-right:auto;
+margin:auto; = perfect centering
+align-self on flex items
+specify the length of the flex item, relative to the rest of the flex items
+create a responsive image gallery with flexbox
+create a responsive website with flexbox
+
+css flexbox explained
+
+
+css media queries
+
+change the background-color to lightgreen if the viewport is 480px wide or wider
+show a menu that will float to the left of the page if the viewport is 480px wide or wider
+
+css media queries explained
+
+
+css media queries - more examples
+
+set different background colors depending on screen width
+responsive navigation menu
+responsive columns using float
+responsive columns using flexbox
+hide elements with media queries
+responsive font size
+responsive image gallery
+responsive website
+change layout of a page depending on the orientation of the browser
+min width to max width
+
+css media queries examples explained
+
+
+css responsive webdesign
+
+responsive grid view
+add breakpoints for desktops, laptops and phones
+typical breakpoints
+responsive image
+responsive video
+responsive framework: w3.css
+responsive framework: bootstrap
+
+css responsive webdesign explained
+
+
+css grid
+
+grid layout
+grid elements
+grid column gaps
+grid lines
+grid container
+grid items
+
+css grid explained
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -21,6 +21,6 @@ public class SpellChecker {
 		}
 		
 		if(flag == 0 )
-			System.out.println("Oops!! No such words found.");
+			System.out.println("Sorry!! No such words found.");
 	}
 }

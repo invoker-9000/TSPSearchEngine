@@ -1,0 +1,993 @@
+
+
+
+html web workers api
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+html tutorial
+html home
+html introduction
+html editors
+html basic
+html elements
+html attributes
+html headings
+html paragraphs
+html styles
+html formatting
+html quotations
+html comments
+html colors
+
+  colors
+  rgb
+  hex
+  hsl
+
+html css
+html links
+
+  links
+  link colors
+  link bookmarks
+
+html images
+
+  images
+  image map
+  background images
+  the picture element
+
+html favicon
+html tables
+
+  html tables
+  table borders
+  table sizes
+  table headers
+  padding & spacing
+  colspan & rowspan
+  table styling
+  table colgroup
+
+
+
+
+html lists
+
+lists
+unordered lists
+ordered lists
+other lists
+
+html block & inline
+html classes
+html id
+html iframes
+html javascript
+html file paths
+html head
+html layout
+html responsive
+html computercode
+html semantics
+html style guide
+html entities
+html symbols
+html emojis
+html charset
+html url encode
+html vs. xhtml
+
+html forms
+html forms
+html form attributes
+html form elements
+html input types
+html input attributes
+html input form attributes
+
+html graphics
+html canvas
+html svg
+
+html media
+html media
+html video
+html audio
+html plug-ins
+html youtube
+
+html apis
+html geolocation
+html drag/drop
+html web storage
+html web workers
+html sse
+
+html examples
+html examples
+html quiz
+html exercises
+html certificate
+html summary
+html accessibility
+
+html references
+html tag list
+html attributes
+html global attributes
+html browser support
+html events
+html colors
+html canvas
+html audio/video
+html doctypes
+html character sets
+html url encode
+html lang codes
+http messages
+http methods
+px to em converter
+keyboard shortcuts
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+html web workers api
+
+  ? previous
+next ?
+
+
+a web worker is a javascript running in the background, without affecting the performance of the page.
+
+
+what is a web worker?
+when executing scripts in an html page, the page becomes unresponsive until the script is finished.
+a web worker is a javascript that runs in the background, independently 
+of other scripts, without affecting the performance of the page. you can continue to do whatever you want: 
+clicking, selecting things, etc., while the web worker runs in the background.
+
+
+browser support
+the numbers in the table specify the first browser version that fully support web workers.
+
+  
+    api
+    
+    
+    
+    
+                    
+  
+  
+    web workers
+    4.0
+    10.0
+    3.5
+    4.0
+    11.5
+  
+
+
+
+html web workers example
+the example below creates a simple web worker that count numbers in the background:
+
+example
+
+count numbers: 
+
+start worker 
+stop worker
+
+
+
+try it yourself »
+
+
+
+check web worker support
+before creating a web worker, check whether the user's browser supports it:
+
+if (typeof(worker) !== "undefined") {
+  // yes! web worker support!
+    // some code.....
+ }
+ else {
+    // sorry! no web worker support..
+ }
+
+
+
+
+
+
+  
+  
+
+
+create a web worker file
+now, let's create our web worker in an external javascript.
+here, we create a script that counts. the script is stored in the "demo_workers.js" file:
+
+ 
+var i = 0;
+
+function timedcount()
+{
+    
+i = i + 1;
+    
+postmessage(i);
+  settimeout("timedcount()",500);
+}
+
+timedcount();
+
+the important part of the code above is the postmessage() method - which is used to post a message back to the html page.
+note: normally web workers are not used for such simple scripts, but for more cpu intensive tasks.
+
+
+create a web worker object
+now that we have the web worker file, we need to call it from an html page.
+the following lines checks if the worker already exists, if not - it creates a new web worker object and runs the code in 
+"demo_workers.js":
+
+if (typeof(w) == "undefined") {
+    w = new worker("demo_workers.js");
+ }
+then we can send and receive messages from the web worker.
+add an "onmessage" event listener to the web worker.
+
+w.onmessage = function(event){
+  document.getelementbyid("result").innerhtml = event.data;
+ };
+
+when the web worker posts a message, the code within the event listener is executed. the data 
+from the web worker is stored in event.data.
+
+
+terminate a web worker
+when a web worker object is created, it will continue to listen for messages (even after the external script is finished) until it is terminated.
+to terminate a web worker, and free browser/computer resources, use the 
+terminate() method:
+
+w.terminate();
+
+
+reuse the web worker
+if you set the worker variable to undefined, after it has been terminated, 
+you can reuse the code:
+
+ w = undefined;
+
+
+full web worker example code
+we have already seen the worker code in the .js file. below is the code for the html page:
+
+example
+
+<!doctype html>
+<html>
+<body>
+
+<p>count numbers: <output id="result"></output></p>
+<button onclick="startworker()">start worker</button> 
+<button onclick="stopworker()">stop worker</button>
+
+<script>
+var w;
+
+function startworker()
+{
+   
+if (typeof(worker) !== "undefined")
+{
+    if (typeof(w) == "undefined") {
+        w = new worker("demo_workers.js");
+      }
+    w.onmessage = function(event) {
+        document.getelementbyid("result").innerhtml = event.data;
+    };
+  }
+else
+{
+     
+document.getelementbyid("result").innerhtml = "sorry! no web worker support.";
+    }
+}
+
+function stopworker()
+{ 
+  w.terminate();  w = undefined;
+}
+</script>
+
+</body>
+</html>
+try it yourself »
+
+
+
+web workers and the dom
+since web workers are in external files, they do not have access to the following javascript objects:
+
+  the window object
+  the document object
+  the parent object
+
+
+
+  ? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1197 @@
+
+
+
+javascript dom navigation
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+js tutorial
+js home
+js introduction
+js where to
+js output
+js statements
+js syntax
+js comments
+js variables
+js let
+js const
+js operators
+js arithmetic
+js assignment
+js data types
+js functions
+js objects
+js events
+js strings
+js string methods
+js string search
+js string templates
+js numbers
+js number methods
+js arrays
+js array methods
+js array sort
+js array iteration
+js array const
+js dates
+js date formats
+js date get methods
+js date set methods
+js math
+js random
+js booleans
+js comparisons
+js conditions
+js switch
+js loop for
+js loop for in
+js loop for of
+js loop while
+js break
+js iterables
+js sets
+js maps
+js typeof
+js type conversion
+js bitwise
+js regexp
+js errors
+js scope
+js hoisting
+js strict mode
+js this keyword
+js arrow function
+js classes
+js modules
+js json
+js debugging
+js style guide
+js best practices
+js mistakes
+js performance
+js reserved words
+
+js versions
+js versions
+js 2009 (es5)
+js 2015 (es6)
+js 2016
+js 2017
+js 2018
+js ie / edge
+js history
+
+js objects
+object definitions
+object properties
+object methods
+object display
+object accessors
+object constructors
+object prototypes
+object iterables
+object sets
+object maps
+object reference
+
+js functions
+function definitions
+function parameters
+function invocation
+function call
+function apply
+function bind
+function closures
+
+js classes
+class intro
+class inheritance
+class static
+
+js async
+js callbacks
+js asynchronous
+js promises
+js async/await
+
+js html dom
+dom intro
+dom methods
+dom document
+dom elements
+dom html
+dom forms
+dom css
+dom animations
+dom events
+dom event listener
+dom navigation
+dom nodes
+dom collections
+dom node lists
+
+js browser bom
+js window
+js screen
+js location
+js history
+js navigator
+js popup alert
+js timing
+js cookies
+
+js web apis
+web api intro
+web forms api
+web history api
+web storage api
+web worker api
+web fetch api
+web geolocation api
+
+js ajax
+ajax intro
+ajax xmlhttp
+ajax request
+ajax response
+ajax xml file
+ajax php
+ajax asp
+ajax database
+ajax applications
+ajax examples
+
+js json
+json intro
+json syntax
+json vs xml
+json data types
+json parse
+json stringify
+json objects
+json arrays
+json server
+json php
+json html
+json jsonp
+
+js vs jquery
+jquery selectors
+jquery html
+jquery css
+jquery dom
+
+js graphics
+js graphics
+js canvas
+js plotly
+js chart.js
+js google chart
+js d3.js
+
+js examples
+js examples
+js html dom
+js html input
+js html objects
+js html events
+js browser
+js editor
+js exercises
+js quiz
+js certificate
+
+js references
+javascript objects
+html dom objects
+
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+javascript html dom navigation
+
+? previous
+next ?
+
+
+with the html dom, you can navigate the node tree using node 
+relationships.
+
+dom nodes
+according to the w3c html dom standard, everything in an html document is a node:
+
+  the entire document is a document node
+  every html element is an element node
+  the text inside html elements are text nodes
+  every html attribute is an attribute node (deprecated)
+  all comments are comment nodes
+
+
+
+
+
+with the html dom, all nodes in the node tree can be accessed by javascript.
+new nodes can be created, and all 
+nodes can be modified or deleted. 
+
+
+node relationships
+the nodes in the node tree have a hierarchical relationship to each other.
+the terms parent, child, and sibling are used to describe the relationships. 
+
+  in a node tree, the top node is called the root (or root node)
+  every node has exactly one parent, except the root (which has no parent)
+  a node can have a number of children
+  siblings (brothers or sisters) are nodes with the same parent
+
+
+
+  
+    
+<html>
+       <head>
+          <title>dom tutorial</title>
+       </head> 
+<body>
+          <h1>dom lesson one</h1>
+          <p>hello world!</p>
+       </body>
+     </html>
+    
+  
+  
+    
+  
+
+
+from the html above you can read:
+
+  <html> is the root node
+  <html> has no parents 
+  <html> is the parent of <head> and <body>
+  <head> is the first child of <html>
+  <body> is the last child of <html>
+
+and:
+
+  <head> has one child: <title>
+  <title> has one child (a text node): "dom tutorial"
+  <body> has two children: <h1> and <p>
+  <h1> has one child: "dom lesson one"
+  <p> has one child: "hello world!"
+  <h1> and <p> are siblings
+
+
+
+
+
+
+
+  
+  
+
+
+navigating between nodes
+you can use the following node properties to navigate between nodes with 
+javascript:
+
+  parentnode
+  childnodes[nodenumber]
+  firstchild
+  lastchild
+  nextsibling
+  previoussibling
+
+
+
+child nodes and node values
+
+
+a common error in dom processing is to expect an element node to contain text.
+
+
+
+example:
+
+ <title 
+ id="demo">dom tutorial</title>
+
+
+
+the element node 
+<title> (in the example above) does not contain text.
+it contains a text node with the value "dom tutorial". 
+the value of the text node can be accessed by the 
+node's 
+innerhtml property:
+
+
+mytitle = document.getelementbyid("demo").innerhtml;
+
+
+accessing the innerhtml property is the same as accessing the nodevalue 
+of the first child:
+
+
+mytitle = document.getelementbyid("demo").firstchild.nodevalue;
+
+
+
+accessing the first child can also be done like this:
+
+
+mytitle = document.getelementbyid("demo").childnodes[0].nodevalue;
+
+
+
+all the (3) following examples retrieves the text of an <h1> element and copies it 
+into a <p> element:
+
+example
+
+<html>
+<body><h1 id="id01">my first page</h1><p id="id02"></p>
+<script>
+ document.getelementbyid("id02").innerhtml 
+ = document.getelementbyid("id01").innerhtml;
+</script>
+</body>
+</html>
+ try it yourself »
+
+
+
+example
+
+<html>
+<body><h1 id="id01">my first page</h1><p id="id02"></p>
+<script>
+ document.getelementbyid("id02").innerhtml = document.getelementbyid("id01").firstchild.nodevalue;
+</script>
+</body>
+</html>
+ try it yourself »
+
+
+
+example
+
+<html>
+<body><h1 id="id01">my first page</h1><p id="id02">hello!</p>
+<script>
+ document.getelementbyid("id02").innerhtml = document.getelementbyid("id01").childnodes[0].nodevalue;
+</script>
+</body>
+</html>
+ try it yourself »
+
+
+
+
+innerhtml
+in this tutorial we use the innerhtml property to retrieve the content of an 
+html element.
+however, learning 
+the other methods above is useful for understanding the tree structure and the 
+navigation of the dom.
+
+
+dom root nodes
+there are two special properties that allow access to the full document:
+
+  document.body - the body of the document
+  document.documentelement - the full document
+
+
+
+example
+
+<html>
+<body>
+
+<h2>javascript htmldom</h2><p>displaying document.body</p><p 
+id="demo"></p><script>document.getelementbyid("demo").innerhtml 
+= document.body.innerhtml;</script>
+
+</body>
+</html>
+try it yourself »
+
+
+
+example
+
+<html>
+<body>
+
+<h2>javascript htmldom</h2><p>displaying document.documentelement</p>
+<p id="demo"></p><script>
+document.getelementbyid("demo").innerhtml = 
+document.documentelement.innerhtml;</script>
+
+</body>
+</html>
+try it yourself »
+
+
+
+the nodename property
+the nodename property specifies the name of a node.
+
+  nodename is read-only
+  nodename of an element node is the same as the tag name
+  nodename of an attribute node is the attribute name
+  nodename of a text node is always #text
+  nodename of the document node is always #document
+
+
+
+example
+ 
+  <h1 id="id01">my first page</h1>
+ <p id="id02"></p><script>document.getelementbyid("id02").innerhtml 
+ = document.getelementbyid("id01").nodename;</script>
+try it yourself »
+
+
+note: nodename always contains the uppercase tag name of an html element.
+
+
+
+the nodevalue property
+the nodevalue property specifies the value of a node.
+
+  nodevalue for element nodes is null
+  nodevalue for text nodes is the text itself
+  nodevalue for attribute nodes is the attribute value
+
+
+
+the nodetype property
+the nodetype property is read only. it returns the type of a node.
+
+
+example
+
+ <h1 id="id01">my first page</h1>
+ <p id="id02"></p><script>document.getelementbyid("id02").innerhtml 
+ = document.getelementbyid("id01").nodetype;</script>
+try it yourself »
+
+
+the most important nodetype properties are:
+
+
+
+node
+type
+example
+
+
+  element_node
+  1
+  <h1 class="heading">w3schools</h1>
+
+
+  attribute_node
+  2
+   class = "heading" (deprecated)
+
+
+  text_node
+  3
+  w3schools
+
+
+  comment_node
+  8
+  <!-- this is a comment -->
+
+
+  document_node
+  9
+  the html document itself (the parent of <html>)
+
+
+  document_type_node
+  10
+  <!doctype html>
+
+
+
+
+type 2 is deprecated in the html dom (but works). it is not deprecated in the xml dom.
+
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

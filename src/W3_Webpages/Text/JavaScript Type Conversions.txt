@@ -1,0 +1,1357 @@
+
+
+
+javascript type conversions
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+  tutorials 
+  references 
+  exercises 
+  videos
+  pro new
+
+  menu 
+
+  
+    
+      
+      log in
+  
+
+  
+    
+    paid courses
+    website new
+    
+
+
+
+  
+
+
+
+
+  
+    
+      
+      
+      html
+      css
+      javascript
+      sql
+      python
+      php
+      bootstrap
+      how to
+      w3.css
+      java
+      jquery
+      c++
+      c#
+      r
+      react
+      kotlin
+      ?
+      ?
+
+      ?
+
+
+      
+      
+    
+    
+
+ dark mode
+
+ dark code
+
+
+
+ 
+ ×
+ 
+  
+   tutorials
+  
+  
+   html and css
+   learn html
+   learn css
+   learn rwd
+   learn bootstrap
+   learn w3.css
+   learn colors
+   learn icons
+   learn graphics
+   learn svg
+   learn canvas
+   learn how to
+   learn sass   
+   
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy       
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+  
+  
+   javascript
+   learn javascript
+   learn jquery
+   learn react
+   learn angularjs
+   learn json
+   learn ajax
+   learn appml
+   learn w3.js
+
+   programming
+   learn python
+   learn java
+   learn c
+   learn c++
+   learn c#
+   learn r
+   learn kotlin
+   learn go
+   learn django
+   
+ 
+   server side
+   learn sql
+   learn mysql
+   learn php
+   learn asp
+   learn node.js
+   learn raspberry pi
+   learn git
+   learn aws cloud
+
+   web building
+   create a website new
+   where to start
+   web templates
+   web statistics
+   web certificates
+   web development
+   code editor
+   test your typing speed
+   play a code game
+   cyber security
+   accessibility
+  
+  
+   data analytics
+   learn ai
+   learn machine learning
+   learn data science 
+   learn numpy    
+   learn pandas    
+   learn scipy    
+   learn matplotlib    
+   learn statistics
+   learn excel
+   learn google sheets
+
+   xml tutorials
+   learn xml
+   learn xml ajax
+   learn xml dom
+   learn xml dtd
+   learn xml schema
+   learn xslt
+   learn xpath
+   learn xquery
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   references
+  
+  
+   html
+   html tag reference
+   html browser support   
+   html event reference
+   html color reference
+   html attribute reference
+   html canvas reference
+   html svg reference
+   google maps reference
+   css
+   css reference
+   css browser support
+   css selector reference
+   bootstrap 3 reference
+   bootstrap 4 reference
+   w3.css reference
+   icon reference
+   sass reference
+  
+  
+   javascript
+   javascript reference
+   html dom reference
+   jquery reference
+   angularjs reference
+   appml reference
+   w3.js reference
+
+   programming
+   python reference
+   java reference
+  
+  
+   server side
+   sql reference
+   mysql reference
+   php reference
+   asp reference
+   xml
+   xml dom reference
+   xml http reference
+   xslt reference
+   xml schema reference
+  
+  
+   character sets
+   html character sets
+   html ascii
+   html ansi
+   html windows-1252
+   html iso-8859-1
+   html symbols
+   html utf-8
+  
+ 
+ 
+ 
+
+
+
+ 
+ ×
+ 
+ 
+   exercises and quizzes
+  
+  
+   exercises
+   html exercises
+   css exercises
+   javascript exercises
+   sql exercises
+   mysql exercises
+   php exercises
+   python exercises
+   numpy exercises
+   pandas exercises
+   scipy exercises
+   jquery exercises
+   java exercises
+   c++ exercises
+   c# exercises
+   r exercises
+   kotlin exercises
+   go exercises
+   bootstrap exercises
+   bootstrap 4 exercises
+   bootstrap 5 exercises
+   git exercises
+  
+  
+   quizzes
+   html quiz
+   css quiz
+   javascript quiz
+   sql quiz
+   mysql quiz
+   php quiz
+   python quiz
+   numpy quiz
+   pandas quiz
+   scipy quiz
+   jquery quiz
+   java quiz
+   c++ quiz
+   c# quiz
+   r quiz
+   xml quiz
+   cyber security quiz
+   bootstrap quiz
+   bootstrap 4 quiz
+   bootstrap 5 quiz
+   accessibility quiz
+  
+  
+   courses
+  
+   html course
+   css course
+   javascript course
+   front end course
+   sql course
+   php course
+   python course
+   numpy course
+   pandas course
+   data analytics course
+   jquery course
+   java course
+   c++ course
+   c# course
+   r course
+   xml course
+   cyber security course
+   accessibility course
+  
+  
+   certificates
+  
+   html certificate
+   css certificate
+   javascript certificate
+   front end certificate
+   sql certificate
+   php certificate
+   python certificate
+   data science certificate
+   bootstrap 3 certificate
+   bootstrap 4 certificate
+   jquery certificate
+   java certificate
+   c++ certificate
+   react certificate
+   xml certificate
+  
+ 
+ 
+ 
+
+
+
+  
+
+
+
+  ×
+  
+    tutorials 
+    
+    references 
+    
+    exercises 
+    
+    paid courses
+    spaces
+    videos
+    shop
+    pro
+  
+
+
+
+
+
+
+  
+    
+
+js tutorial
+js home
+js introduction
+js where to
+js output
+js statements
+js syntax
+js comments
+js variables
+js let
+js const
+js operators
+js arithmetic
+js assignment
+js data types
+js functions
+js objects
+js events
+js strings
+js string methods
+js string search
+js string templates
+js numbers
+js number methods
+js arrays
+js array methods
+js array sort
+js array iteration
+js array const
+js dates
+js date formats
+js date get methods
+js date set methods
+js math
+js random
+js booleans
+js comparisons
+js conditions
+js switch
+js loop for
+js loop for in
+js loop for of
+js loop while
+js break
+js iterables
+js sets
+js maps
+js typeof
+js type conversion
+js bitwise
+js regexp
+js errors
+js scope
+js hoisting
+js strict mode
+js this keyword
+js arrow function
+js classes
+js modules
+js json
+js debugging
+js style guide
+js best practices
+js mistakes
+js performance
+js reserved words
+
+js versions
+js versions
+js 2009 (es5)
+js 2015 (es6)
+js 2016
+js 2017
+js 2018
+js ie / edge
+js history
+
+js objects
+object definitions
+object properties
+object methods
+object display
+object accessors
+object constructors
+object prototypes
+object iterables
+object sets
+object maps
+object reference
+
+js functions
+function definitions
+function parameters
+function invocation
+function call
+function apply
+function bind
+function closures
+
+js classes
+class intro
+class inheritance
+class static
+
+js async
+js callbacks
+js asynchronous
+js promises
+js async/await
+
+js html dom
+dom intro
+dom methods
+dom document
+dom elements
+dom html
+dom forms
+dom css
+dom animations
+dom events
+dom event listener
+dom navigation
+dom nodes
+dom collections
+dom node lists
+
+js browser bom
+js window
+js screen
+js location
+js history
+js navigator
+js popup alert
+js timing
+js cookies
+
+js web apis
+web api intro
+web forms api
+web history api
+web storage api
+web worker api
+web fetch api
+web geolocation api
+
+js ajax
+ajax intro
+ajax xmlhttp
+ajax request
+ajax response
+ajax xml file
+ajax php
+ajax asp
+ajax database
+ajax applications
+ajax examples
+
+js json
+json intro
+json syntax
+json vs xml
+json data types
+json parse
+json stringify
+json objects
+json arrays
+json server
+json php
+json html
+json jsonp
+
+js vs jquery
+jquery selectors
+jquery html
+jquery css
+jquery dom
+
+js graphics
+js graphics
+js canvas
+js plotly
+js chart.js
+js google chart
+js d3.js
+
+js examples
+js examples
+js html dom
+js html input
+js html objects
+js html events
+js browser
+js editor
+js exercises
+js quiz
+js certificate
+
+js references
+javascript objects
+html dom objects
+
+      
+    
+  
+
+
+  
+    
+      
+        
+
+        
+        
+        
+
+      
+javascript type conversion
+
+? previous
+next ?
+
+
+
+converting strings to numbers
+converting numbers to strings
+converting dates to numbers
+converting numbers to dates
+converting booleans to numbers
+converting numbers to booleans
+
+
+
+javascript type conversion
+javascript variables can be converted to a new variable and another data type:
+
+  by the use of a javascript function
+  automatically by javascript itself
+
+
+converting strings to numbers
+the global method number() can convert strings to numbers.
+strings containing numbers (like "3.14") convert to numbers (like 3.14).
+empty strings convert to 0.
+anything else converts to nan (not a number).
+
+
+
+number("3.14")    // returns 3.14
+number(" ")       // returns 0 
+number("")         // returns 0
+number("99 88")   // returns nan
+
+
+
+number methods
+in the chapter number methods, you 
+will find more methods that can be used to convert strings to 
+numbers:
+
+  
+    method
+    description
+  
+  
+    number()
+    returns a number, converted from its argument
+    
+  
+  
+    parsefloat()
+    parses a string and returns a floating point number
+    
+  
+    parseint()
+    parses a string and returns an integer
+    
+
+
+
+the unary + operator
+the unary + operator can be used to 
+convert a variable to a number:
+
+example
+
+let y = "5";     
+// y is a string
+let x = + y;      
+// x is a number
+
+try it yourself »
+
+
+if the 
+variable cannot be converted, it will still become a number, but with the value nan 
+(not a number):
+
+example
+
+let y = "john";  
+// y is a string
+let x = + y;      // x is a number (nan)
+try it yourself »
+
+
+
+
+
+
+  
+  
+
+
+
+
+converting numbers to strings
+the global method string() can convert numbers to strings.
+
+it can be used on any type of numbers, literals, variables, or expressions:
+
+example
+
+ string(x)         // returns a string from a number variable x
+ string(123)       // returns a string from a number literal 123
+ string(100 + 23)  // returns a string from a number from an expression
+try it yourself »
+
+the number method tostring() does the same.
+
+
+example
+ 
+x.tostring()(123).tostring()(100 + 23).tostring()
+try it yourself »
+
+
+more methods
+in the chapter number methods, you 
+will find more methods that can be used to convert numbers to 
+strings:
+
+  
+    method
+    description
+  
+  
+    toexponential()
+    returns a string, with a number rounded and written using exponential notation.
+  
+  
+    tofixed()
+    returns a string, with a number rounded and written with a specified number of decimals.
+  
+  
+    toprecision()
+    returns a string, with a number written with a specified length
+  
+
+
+
+converting dates to numbers
+the global method number() can be used to convert dates to 
+numbers.
+
+
+
+d = new date();number(d)          // returns 1404568027739
+
+
+
+the date method gettime()  does the same.
+
+
+
+d = new date();d.gettime()        // returns 1404568027739
+
+
+
+
+converting dates to strings
+
+the global method string() can convert dates to 
+strings.
+
+
+
+  string(date())  // returns "thu jul 17 2014 15:38:19 gmt+0200 (w. europe daylight time)"
+
+
+the date method tostring() does the same.
+
+
+example
+ 
+  date().tostring()  // returns "thu jul 17 2014 15:38:19 gmt+0200 (w. europe daylight time)"
+
+
+in the chapter date methods, you 
+will find more methods that can be used to convert dates to 
+strings:
+
+
+method
+description
+
+
+getdate()
+get the day as a number (1-31)
+
+
+getday()
+get the weekday a number (0-6)
+
+
+getfullyear()
+get the four digit year (yyyy)
+
+
+gethours()
+get the hour (0-23)
+
+
+getmilliseconds()
+get the milliseconds (0-999)
+
+
+getminutes()
+get the minutes (0-59)
+
+
+getmonth()
+get the month (0-11)
+
+
+getseconds()
+get the seconds (0-59)
+
+
+gettime()
+get the time (milliseconds since january 1, 1970)
+
+
+
+
+converting booleans to numbers
+the global method number() can also convert booleans to numbers.
+
+
+
+number(false)     // returns 0
+number(true)      // returns 1
+
+
+
+converting booleans to strings
+
+the global method string() can convert booleans to 
+strings.
+
+
+
+string(false)      // returns "false"
+string(true)       // returns "true"
+
+
+
+the boolean method tostring() does the same.
+
+
+
+false.tostring()   // returns "false"
+  true.tostring()    // returns "true"
+
+
+
+
+automatic type conversion
+when javascript tries to operate on a "wrong" data type, it will try to 
+convert the value to a "right" type.
+the result is not always what you expect:
+
+
+
+ 5 + null    // returns 5         because null is converted to 0"5" + null  // returns "5null"   because null is converted to "null""5" + 2     // returns 
+    "52"      because 2 is converted to "2"
+ "5" - 2     // returns 3         because "5" is converted to 5"5" * "2"   // returns 
+    10        because "5" and "2" are 
+    converted to 5 and 2
+try it yourself »
+
+
+
+automatic string conversion
+javascript automatically calls the variable's tostring() function when you try 
+to "output" an object or a variable:
+
+
+
+document.getelementbyid("demo").innerhtml = myvar;
+// if myvar = {name:"fjohn"}  // tostring converts to "[object object]"
+// if myvar = [1,2,3,4]       // tostring converts to "1,2,3,4"
+// if myvar = new date()      // tostring converts to "fri jul 18 2014 09:08:55 gmt+0200"
+
+
+
+numbers and booleans are also converted, but this is not very visible:
+
+
+
+// if myvar = 123             // tostring converts to "123"
+// if myvar = true            // tostring converts to "true"
+// if myvar = false           // tostring converts to "false"
+
+
+
+
+
+javascript type conversion table
+this table shows the result of converting different javascript values to number, string, and boolean:
+
+
+
+ 
+  originalvalue
+  convertedto number
+  convertedto string
+  convertedto boolean
+  try it
+ 
+ 
+  false
+  0
+  "false"
+  false
+  try it »
+ 
+ 
+  true
+  1
+  "true"
+  true
+  try it »
+ 
+ 
+  0
+  0
+  "0"
+  false
+  try it »
+ 
+ 
+  1
+  1
+  "1"
+  true
+  try it »
+ 
+ 
+  "0"
+  0
+  "0"
+  true
+  try it »
+ 
+ 
+  "000"
+  0
+  "000"
+  true
+  try it »
+ 
+ 
+  "1"
+  1
+  "1"
+  true
+  try it »
+ 
+ 
+  nan
+  nan
+  "nan"
+  false
+  try it »
+ 
+ 
+  infinity
+  infinity
+  "infinity"
+  true
+  try it »
+ 
+ 
+  -infinity
+  -infinity
+  "-infinity"
+  true
+  try it »
+ 
+ 
+  ""
+  0
+  ""
+  false
+  try it »
+ 
+ 
+  "20"
+  20
+  "20"
+  true
+  try it »
+ 
+ 
+  "twenty"
+  nan
+  "twenty"
+  true
+  try it »
+ 
+ 
+  [ ]
+  0
+  ""
+  true
+  try it »
+ 
+ 
+  [20]
+  20
+  "20"
+  true
+  try it »
+ 
+ 
+  [10,20]
+  nan
+  "10,20"
+  true
+  try it »
+ 
+ 
+  ["twenty"]
+  nan
+  "twenty"
+  true
+  try it »
+ 
+ 
+  ["ten","twenty"]
+  nan
+  "ten,twenty"
+  true
+  try it »
+ 
+ 
+  function(){}
+  nan
+  "function(){}"
+  true
+  try it »
+ 
+ 
+  { }
+  nan
+  "[object object]"
+  true
+  try it »
+ 
+ 
+  null
+  0
+  "null"
+  false
+  try it »
+ 
+ 
+  undefined
+  nan
+  "undefined"
+  false
+  try it »
+ 
+
+
+
+values in quotes indicate string values.
+red values indicate values (some) programmers might not expect.
+
+
+
+? previous
+next ?
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+  
+
+
+
+  
+    new
+  
+  we just launchedw3schools videos
+  
+  explore now
+
+
+
+color picker
+
+
+
+
+
+
+
+  
+    
+    
+    
+        
+  
+
+
+
+
+
+
+
+get certifiedby completinga course today!
+
+
+w3schools certified  .  2022
+
+
+
+get started
+
+
+
+
+
+
+
+
+
+
+
+  code game
+  
+  play game
+
+
+
+
+
+
+
+  
+    
+      
+      
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+
+
+
+report error
+
+
+
+forum
+
+
+about
+
+
+shop
+
+
+
+
+
+×
+
+report error
+
+if you want to report an error, or if you want to make a suggestion, do not hesitate to send us an e-mail:
+help@w3schools.com
+
+
+
+
+
+
+×     
+thank you for helping us!
+your message has been sent to w3schools.
+
+
+
+
+
+top tutorials
+html tutorial
+css tutorial
+javascript tutorial
+how to tutorial
+sql tutorial
+python tutorial
+w3.css tutorial
+bootstrap tutorial
+php tutorial
+java tutorial
+c++ tutorial
+jquery tutorial
+
+
+
+
+top references
+html reference
+css reference
+javascript reference
+sql reference
+python reference
+w3.css reference
+bootstrap reference
+php reference
+html colors
+java reference
+angular reference
+jquery reference
+
+
+
+
+top examples
+html examples
+css examples
+javascript examples
+how to examples
+sql examples
+python examples
+w3.css examples
+bootstrap examples
+php examples
+java examples
+xml examples
+jquery examples
+
+
+
+
+
+
+web courses
+html course
+css course
+javascript course
+front end course
+sql course
+python course
+php course
+jquery course
+java course
+c++ course
+c# course
+xml course
+
+get certified »
+
+
+
+        
+        
+
+
+
+w3schools is optimized for learning and training. examples might be simplified to improve reading and learning.
+tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+while using w3schools, you agree to have read and accepted our terms of use, 
+cookie and privacy policy.
+copyright 1999-2022 by refsnes data. all rights reserved.
+w3schools is powered by w3.css.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+

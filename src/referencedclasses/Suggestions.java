@@ -13,7 +13,7 @@ public class Suggestions {
 	public static TST<Integer> tst = new TST<Integer>();
 	public static void buildTST(File file) throws Exception{
 		String str = new String(Files.readAllBytes(Paths.get(file.getPath())));
-		//tokenize text to extract only words
+		//tokenize the text file to extract only words
 		Pattern pat = Pattern.compile("[\\w]+");
 		Matcher  m = pat.matcher(str);
 		ArrayList<String> words= new ArrayList<String>();

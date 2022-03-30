@@ -3,7 +3,6 @@ package tspsearch;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import priority.Ranking;
 import referencedclasses.SpellChecker;
 import referencedclasses.Suggestions;
 
@@ -12,49 +11,49 @@ public class SearchEngine {
 		
 		PreProcessor.preProcessor();
 		
-		System.out.println("Please enter the option to search 1, 2, 3, 4");
-		String option = "";
+		
+		String choice = "";
 		Scanner in = new Scanner(System.in);
-		String keyword;
+		String key;
 		
 		while(true) {
-			
-			switch (option) {
+			System.out.println("Please select the operations you want to perform from the below menu");
+			System.out.println("Type 1 To Search \nType 2 To get Suggestion to complete the word \nType 3 To check the spelling \nType 4 Exit\n");
+			choice = in.next();
+			switch (choice) {
 			case "1":
-				System.out.println("Search with our Surfer:");
-				keyword = in.next();
-				Ranking.search(keyword, 5);
+				System.out.println("Search with our TSP Search Engine:");
+				key = in.next();
+				Ranking.search(key.toLowerCase(), 5);
 				break;
 		
 			case "2":
-				System.out.println("Enter a keyword to get suggestions :");
-				keyword = in.next();
-				ArrayList<String> suggestions= Suggestions.getSuggestions(keyword);
+				System.out.println("Enter a word to get the autocomplete suggestions :");
+				key = in.next();
+				ArrayList<String> suggestions= Suggestions.getSuggestions(key);
 				for (String string : suggestions) {
 					System.out.println(string);
 				}
 				break;
 			
 			case "3":
-				System.out.println("Enter a keyword to check spelling:");
-				keyword = in.next();
-				SpellChecker.spellCheck(keyword);
+				System.out.println("Enter a word to check its spelling:");
+				key = in.next();
+				SpellChecker.spellCheck(key);
 				break;
 			
 			case "4":
 				System.out.println("Exiting");
-				System.out.println("Thank you for using our application!");
+				System.out.println("Bye, have a great day, see you again soon!");
 				in.close();
 				System.exit(0);
 				break;
 			
 			default:
-				System.out.println("Invalid input!! Please try again.");
+				System.out.println("invalid choice, Please try again!!");
 				break;
 			}
-			System.out.println("Select one option from below:");
-			System.out.println("1. For Search \n2. To Get Suggestions \n3. To run Spell Checker \n4. Exit\n");
-			option = in.next();
+			
 		}
 		
 		
