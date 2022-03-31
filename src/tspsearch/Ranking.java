@@ -37,6 +37,7 @@ public class Ranking {
 		for (int j = 0; j < numberOfResults; j++) {
 			System.out.println((j+1)+" :"+ Binary_Heap.deleteMin()); //deleting the root node which has max occurrence of the word and printing it
 		}
+		reStructure();
 	}
 	
 }
