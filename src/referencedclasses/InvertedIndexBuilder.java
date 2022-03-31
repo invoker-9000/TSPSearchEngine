@@ -16,35 +16,35 @@ public class InvertedIndexBuilder {
 	public static void invertedIndex(File file) throws Exception {
 		
 		// read file
-		String string = new String(Files.readAllBytes(Paths.get(file.getPath())));
+		String string = new String(Files.readAllBytes(Paths.get(file.getPath()))); // read the text file and store it into a string
 		
 				
-		//tokenise text to extract only words
-		Pattern pattern = Pattern.compile("[\\w]+");
-		Matcher  patternMatcher = pattern.matcher(string);
+		//tokenise text to extract only words using Java Regex pakage and their methods
+		Pattern pattern = Pattern.compile("[\\w]+"); // pattern to extract only a single word
+		Matcher  patternMatcher = pattern.matcher(string); // match the pattern with our string
 		ArrayList<String> words= new ArrayList<String>();
 		while(patternMatcher.find()) {
 			words.add(patternMatcher.group());
 		}
 		
-		//build index
+		//build index hashMAp ( word , Hashmap ( Filename , ocurence)
 		for (String word : words) {
 			//if index already contains word.
-			if(index.containsKey(word)) {
-				HashMap<String, Integer> hashMap = index.get(word);
+			if(index.containsKey(word)) {   // here we check if the hashmap already contains the word then simply increase the occurence by 1
+				HashMap<String, Integer> hashMap = index.get(word); 
 				//number of occurrences
 				if(hashMap.containsKey(file.getName())) {
 					int n = hashMap.get(file.getName());
 					hashMap.put(file.getName(), n+1);
 					index.put(word, hashMap);
 				}
-				else {
-					hashMap.put(file.getName(), 1);
+				else {						
+					hashMap.put(file.getName(), 1);  
 					index.put(word, hashMap);
 				}
 			}
 			else {
-				HashMap<String, Integer> hashMap = new HashMap<String, Integer>();
+				HashMap<String, Integer> hashMap = new HashMap<String, Integer>(); // if the word is not present then add the occurence as 1
 				hashMap.put(file.getName(), 1);
 				index.put(word, hashMap);
 			}

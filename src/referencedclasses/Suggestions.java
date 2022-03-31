@@ -12,38 +12,26 @@ public class Suggestions {
 	
 	public static TST<Integer> tst = new TST<Integer>();
 	public static void buildTST(File file) throws Exception{
-		String str = new String(Files.readAllBytes(Paths.get(file.getPath())));
-		//tokenize the text file to extract only words
-		Pattern pat = Pattern.compile("[\\w]+");
-		Matcher  m = pat.matcher(str);
-		ArrayList<String> words= new ArrayList<String>();
+		String str = new String(Files.readAllBytes(Paths.get(file.getPath()))); // read the file
+		//  extract only words
+		Pattern pat = Pattern.compile("[\\w]+"); // extract each and every word from the file
+		Matcher  m = pat.matcher(str); // match it with the string
+		ArrayList<String> words= new ArrayList<String>(); 
 		while(m.find()) {
-				words.add(m.group());
+				words.add(m.group());// save all the words into array list
 			}
 		for (int i = 0; i < words.size(); i++) {
 			if(tst.contains(words.get(i))) {
-				tst.put(words.get(i), tst.get(words.get(i))+1);
+				tst.put(words.get(i), tst.get(words.get(i))+1); // if we get the words in the tst then increment the count by 1
 			}
 			else
-			tst.put(words.get(i),1);
+			tst.put(words.get(i),1); // if we dont get the word in the TST then add the value as 1
 		}	
 	}
 	
-	public static ArrayList<String> getSuggestions(String keyword){
-		Queue<String> suggestions = (Queue<String>) tst.prefixMatch(keyword);
-		ArrayList<String> strings = new ArrayList<String>();
-		for (int i = 0; i < suggestions.size(); i++) {
-			strings.add(suggestions.dequeue());
-		}
-		return strings;
+		public static Queue<String> getSuggestion(String keyword){
+		Queue<String> suggestions = (Queue<String>) tst.prefixMatch(keyword); // returns the queue of all the words starting with the keyword with the help of TST
+		return suggestions;
 	}
 	
-//	public static void main(String[] args) throws Exception{
-//		File path = new File("W3C Web Pages\\Text");
-//		File[] listOfFiles = path.listFiles();
-//		for (File file : listOfFiles) {
-//			buildTST(file);
-//		}
-//		System.out.println(getSuggestions("We"));
-//	}
 }

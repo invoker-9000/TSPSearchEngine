@@ -1,8 +1,7 @@
 package tspsearch;
 
-import java.util.ArrayList;
 import java.util.Scanner;
-
+import referencedclasses.Queue;
 import referencedclasses.SpellChecker;
 import referencedclasses.Suggestions;
 
@@ -30,9 +29,9 @@ public class SearchEngine {
 			case "2":
 				System.out.println("Enter a word to get the autocomplete suggestions :");
 				key = in.next();
-				ArrayList<String> suggestions= Suggestions.getSuggestions(key);
-				for (String string : suggestions) {
-					System.out.println(string);
+				Queue<String> suggestions = Suggestions.getSuggestion(key);
+				for (int i = 0; i < suggestions.size(); i++) {
+					System.out.println((suggestions.dequeue()));
 				}
 				break;
 			
@@ -50,7 +49,7 @@ public class SearchEngine {
 				break;
 			
 			default:
-				System.out.println("invalid choice, Please try again!!");
+				System.out.println("Invalid choice, Please try again!!");
 				break;
 			}
 			

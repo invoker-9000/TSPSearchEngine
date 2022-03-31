@@ -18,20 +18,23 @@ public class HTMLToText {
 	
 	public static void createIndFiles(File file) throws IOException {
 		
-		String html="";
+		String html="";  // just for next line presentation
 		String fileName = file.getName();
-		String destPath = "F:\\eclipse-workspace\\TSPSearchEngine\\src\\W3_Webpages\\Text" + "\\" + fileName.substring(0, fileName.length() - 5) + ".txt";
+		String destPath = "F:\\eclipse-workspace\\TSPSearchEngine\\src\\W3_Webpages\\Text" + "\\" + fileName.substring(0, fileName.length() - 5) + ".txt"; // this is done
+																																	//to store the file in the text folder and 
+																																	//get the path as well as change the 
+																																	//extension form html to txt
 
-		 Scanner scnr = new Scanner(file);
+		 Scanner scnr = new Scanner(file); // file = original file html file
 		 while(scnr.hasNextLine()){
-			   String line = scnr.nextLine().toLowerCase();
+			   String line = scnr.nextLine().toLowerCase(); //to make the case in-sensetive we are converting the string into lower
 			   
-			   html+= line + "\n";
+			   html+= line + "\n"; // to store the lines on the next line 
 		 }
 		 
-		  String htmlText = Jsoup.parse(html).wholeText();
+		  String htmlText = Jsoup.parse(html).wholeText(); // to remove the HTML tags form the text
 		  FileWriter writer = new FileWriter(destPath);
-		  writer.write(htmlText);			
+		  writer.write(htmlText);			 // write the string into a new file and store it in the destination file
 		  writer.close();
 	}
 

@@ -96,25 +96,5 @@ public class Binary_Heap<AnyType extends Comparable<? super AnyType>>
 	   }
 	   array[ hole ] = tmp;
 	}
-	public static void main( String [ ] args )
-	{
-	   int items = 10000;
-	   Random random = new Random();
-	   random.setSeed(100);
-	   
-	   long startTime = System.currentTimeMillis();
-	   
-	   Binary_Heap<Integer> binaryHeap = new Binary_Heap<>( );
-	   
-	   for (int i=0; i < items; i++)
-	       //binaryHeap.insert( i );
-		   binaryHeap.insert(random.nextInt());
 	
-	   for(int i=0; i < items; i++ )
-	       if( binaryHeap.deleteMin() != i )
-	           System.out.println( "Oops! " + i );
-	
-	   long totalTime = System.currentTimeMillis() - startTime; 
-	   System.out.println("totalTime = " + totalTime);
-	}
 }
