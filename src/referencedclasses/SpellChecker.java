@@ -15,7 +15,8 @@ public class SpellChecker {
 		boolean found = false; // to check if the word is found
 		for (String string : strings) { 
 			distance[i++] = Sequences.editDistance(misSpelled, string); //store all the editdistance with the misspelled word in an array
-			if(distance[i-1] == 1) { // check if the edit distance is 1, then only show the suggestions with edit distance as 1 no other words, since the list will be long 
+			if(distance[i-1] == 1) { // check if the edit distance is 1, then only show the suggestions with edit distance as 1 no other words,
+															//since the list will be long 
 				found=true;
 				System.out.println("Did you mean " + string + " ?");
 			}

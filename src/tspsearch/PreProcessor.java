@@ -18,7 +18,7 @@ public class PreProcessor {
 		// converting HTML files to TEXT for processing
 		for (int i = 0; i < files.length; i++) {
 			if(files[i].isFile())     
-			HTMLToText.createIndFiles(files[i]);
+			HTMLToText.createIndFiles(files[i]); 
 		}
 		
 		// Build record-level-inverted index using hashMap.
